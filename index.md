@@ -21,3 +21,33 @@ Shen Zhuoran \(Shen is the last name) is a Computer Science student at [The Univ
 - **Second Runner-up** in **hackUST 2017 Radica Challenge** in *Apr. 2017*
 - **Invited to A Day with Google** through **Google Code Jam 2017 Asia-Pacific University Test** in *Nov. 2016*
 - **First Prize** in **China’s National Olympiad of Informatics in Provinces** ub *Nov. 2014*
+
+# Research Projects
+
+**A Novel Attention Module** at *SenseTime*
+
+- Sep. 2018 — Present
+- Designing a novel general-purpose attention module.
+- Preparing a first-author paper for CVPR 2019.
+
+**Visual Embedding of Chinese** at *Computer Vision Group, The University of Hong Kong*
+
+- Sep. 2018 — Present
+- Designing a novel Chinese embedder incorporating visual features of Chinese characters.
+- Bachelor’s final year project.
+
+**Attentive Stereo Depth Estimation** at *SenseTime*
+
+- Jan. 2018 — Present
+- A stereo depth estimator augmented with the attention mechanism.
+- State-of-the-art performance on the Scene Flow dataset.
+- Primary contributor.
+
+# Other Projects
+
+**beauty-net**
+
+- May 2018 — Present
+- A simple, flexible, and extensible template for PyTorch. Designed with object-orientation and written in high quality code.
+- 2nd most starred PyTorch template on GitHub.
+- Owner and primary contributor.
