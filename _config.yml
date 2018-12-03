@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Personal site for Shen Zhuoran, a Computer Science student at The University of Hong Kong.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cms-flash.github.io" # the base hostname & protocol for your site
+asset_url: "https://github.com/cms-flash/cms-flash.github.io/raw/master/assets"
 twitter_username: CMS_Flash
 github_username:  cms-flash
 
