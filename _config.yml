@@ -21,12 +21,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cms-flash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CMS_Flash
 github_username:  cms-flash
-linkedin:
 
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
+plugins_dir:
   - jekyll-feed
 
 # Exclude from processing.
