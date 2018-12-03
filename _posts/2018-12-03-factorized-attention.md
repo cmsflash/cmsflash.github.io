@@ -7,4 +7,4 @@ categories: publication
 
 The new paper *Factorized Attention: Self-Attention with Linear Complexities* is a work by Shen Zhuoran and colleagues at SenseTime Research.
 It is in submission to a top-tier conference for computer vision.
-To learn more, refer to the [paper]({{{{ site.url }}/assets/factorized_attention}}).
+To learn more, refer to the [paper]({{ site.url }}/assets/factorized_attention.pdf).
