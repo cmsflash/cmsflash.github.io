@@ -43,7 +43,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Other Projects
 
-**beauty-net**
+**[beauty-net](https://github.com/cms-flash/beauty-net)**
 
 - May 2018 — Present
 - A simple, flexible, and extensible template for PyTorch. Designed with object-orientation and written in high quality code.
