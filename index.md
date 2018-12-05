@@ -5,6 +5,10 @@ permalink: /
 
 Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/) and a Research Intern at [SenseTime](https://www.sensetime.com/). His research interest is computer vision and natural language processing (NLP) with deep learning. In computer vision, his areas of focus include the attention mechanism and stereo vision. He is also interested in applying vision techniques in NLP.
 
+# Preprints
+
+- **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2018). [Factorized Attention: Self-Attention with Linear Complexities](https://arxiv.org/abs/1812.01243). In submission.
+
 # Awards
 
 - **Dean’s Honor List, Fall Quarter 2017** by *College of Letters and Science, University of California, Davis* in *Dec. 2017* 
