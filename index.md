@@ -14,46 +14,51 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Awards
 
-- **Dean’s Honor List, Fall Quarter 2017** by *College of Letters and Science, University of California, Davis* in *Dec. 2017* 
-- **Dean’s Honours List 2016-2017** by *Faculty of Engineering, The University of Hong Kong* in *Dec. 2017*
-- **YC Cheng Engineering Scholarship** by *Faculty of Engineering, The University of Hong Kong* in *May 2017*
-- **Dean’s Honours List 2015-2016** by *Faculty of Engineering, The University of Hong Kong* in *Dec. 2016*
+- **Dean’s Honours Lists 2017-2018**, *Faculty of Engineering, The University of Hong Kong*
+- **Dean’s Honours Lists 2016-2017**, *Faculty of Engineering, The University of Hong Kong*
+- **Dean’s Honours Lists 2015-2016**, *Faculty of Engineering, The University of Hong Kong*
+- **Dean’s Honor List, Fall Quarter 2017**, *College of Letters and Science, University of California, Davis*
+- **YC Cheng Engineering Scholarship, 2017** by *Faculty of Engineering, The University of Hong Kong*
 
 # Programming Contests
 
-- **Second Runner-up** in **ACM-ICPC Hong Kong PolyU International Invitational 2017** in *Aug. 2017*
-- **First Runner-up** in **ACM-HK Programming Contest 2017** in *Jun. 2017*
-- **Second Runner-up** in **hackUST 2017 Radica Challenge** in *Apr. 2017*
-- **Invited to A Day with Google** through **Google Code Jam 2017 Asia-Pacific University Test** in *Nov. 2016*
-- **First Prize** in **China’s National Olympiad of Informatics in Provinces** in *Nov. 2014*
+- **First Runner-up**, *ACM-HK Programming Contest 2017*
+- **Second Runner-up**, *ACM-ICPC Hong Kong PolyU International Invitational 2017*
+- **Second Runner-up**, *hackUST 2017 Radica Challenge*
+- **Invited to A Day with Google**, *Google Code Jam 2017 Asia-Pacific University Test*
+- **First Prize**, *China’s National Olympiad of Informatics in Provinces 2014*
 
 # Research Projects
-
-**A Novel Attention Module** at *SenseTime*
-
-- Sep. 2018 - Present
-- Designing a novel general-purpose attention module.
-- Preparing a first-author paper for CVPR 2019.
 
 **Visual Embedding of Chinese** at *Computer Vision Group, The University of Hong Kong*
 
 - Sep. 2018 - Present
-- Designing a novel Chinese embedder incorporating visual features of Chinese characters.
+- Designing a novel model to improve Chinese embedding accuracy by utilizing visual features.
+- Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
 - Bachelor’s final year project.
 
-**Attentive Stereo Depth Estimation** at *SenseTime*
+**Factorized Attention** at *SenseTime*
 
-- Jan. 2018 - Present
-- A stereo depth estimator augmented with the attention mechanism.
-- State-of-the-art performance on the Scene Flow dataset.
+- Sep. 2018 - Nov. 2018
+- Proposed factorized attention, which reduced the memory and computational complexities of the self-attention mechanism from quadratic to linear and is applicable to computer vision and NLP.
+- Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on MS-COCO 2017) and stereo depth estimation (0.477 over 1.09 in EPE on Scene Flow) and significant improvement on instance seg-mentation (37.9 over 36.6 in AP on MS-COCO 2017).
+- Submitted a first-author [paper](#preprint) to a top-tier conference.
+
+**Project on Stereo Depth Estimation** at *SenseTime*
+
+- May 2018 - Aug. 2018
+- Developed a stereo depth estimator based on PSMNet with improved training procedures.
+- Achieved 2x reduction in error rate (EPE) over the previous state-of-the-art on the Scene Flow dataset.
 - Primary contributor.
 
 # Other Projects
 
-**[beauty-net](https://github.com/cms-flash/beauty-net)**
+[**beauty-net**](https://github.com/cms-flash/beauty-net)
 
 - May 2018 - Present
-- A simple, flexible, and extensible template for PyTorch. Designed with object-orientation and written in high quality code.
-- 2nd most starred PyTorch template on GitHub.
+- Developed a PyTorch project template. Applied deduplication, modularization, and a consistent code style to improve maintainability, testability, and analyzability.
+- Became 2nd most popular PyTorch template on GitHub, got 180+ stars, and trended for 3 days.
 - Owner and primary contributor.
 
+## Preprint
+- **Shen Z.**, Zhang M., Yi S., Yan J., Zhao H. (2018). [*Factorized Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). In submission.
