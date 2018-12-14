@@ -28,7 +28,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - **Invited to A Day with Google**, *Google Code Jam 2017 Asia-Pacific University Test*
 - **First Prize**, *China’s National Olympiad of Informatics in Provinces 2014*
 
-# Research Projects
+# Research Experience
 
 **Visual Embedding of Chinese** at *Computer Vision Group, The University of Hong Kong*
 
@@ -50,6 +50,13 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Developed a stereo depth estimator based on PSMNet with improved training procedures.
 - Achieved 2x reduction in error rate (EPE) over the previous state-of-the-art on the Scene Flow dataset.
 - Primary contributor.
+
+# Teaching Experience
+
+**Software Engineering**, Teaching Assistant
+
+- Jan. 2019 - May 2019 \(not started)
+- To assist George Mitcheson, Guest Lecturer, Department of Computer Science, The University of Hong Kong
 
 # Other Projects
 
