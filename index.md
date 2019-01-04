@@ -10,7 +10,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Preprints
 
-- **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2018). [Factorized Attention: Self-Attention with Linear Complexities](https://arxiv.org/abs/1812.01243). In submission.
+- **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2018). [*Factorized Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). In submission.
 
 # Awards
 
@@ -18,7 +18,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - **Dean’s Honours Lists 2016-2017**, *Faculty of Engineering, The University of Hong Kong*
 - **Dean’s Honours Lists 2015-2016**, *Faculty of Engineering, The University of Hong Kong*
 - **Dean’s Honor List, Fall Quarter 2017**, *College of Letters and Science, University of California, Davis*
-- **YC Cheng Engineering Scholarship, 2017** by *Faculty of Engineering, The University of Hong Kong*
+- **YC Cheng Engineering Scholarship, 2017**, *Faculty of Engineering, The University of Hong Kong*
 
 # Programming Contests
 
@@ -66,6 +66,3 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Developed a PyTorch project template. Applied deduplication, modularization, and a consistent code style to improve maintainability, testability, and analyzability.
 - Became 2nd most popular PyTorch template on GitHub, got 180+ stars, and trended for 3 days.
 - Owner and primary contributor.
-
-## Preprint
-- **Shen Z.**, Zhang M., Yi S., Yan J., Zhao H. (2018). [*Factorized Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). In submission.
