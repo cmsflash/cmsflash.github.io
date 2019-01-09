@@ -18,9 +18,9 @@ email: cmsflash99@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site for Shen Zhuoran, a Computer Science student at The University of Hong Kong.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cms-flash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cmsflash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CMS_Flash
-github_username:  cms-flash
+github_username:  cmsflash
 
 # Build settings
 markdown: kramdown
