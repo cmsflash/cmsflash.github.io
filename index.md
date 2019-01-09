@@ -12,6 +12,20 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 - **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2018). [*Factorized Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). In submission.
 
+# Education
+
+**The University of Hong Kong**, Hong Kong
+
+- Sep. 2015 - Present.
+- *Bachelor of Engineering* in *Computer Science*.
+- CGPA: 3.97/4.30. Standing: 1/111. Major CGPA: 4.13/4.30.
+
+**University of California, Davis**, CA, Unites States
+
+- Sep. 2017 - Dec. 2017.
+- *Bachelor's Reciprocity Student* in *Computer Science*.
+- GPA: 4.00/4.00.
+
 # Awards
 
 - **Dean’s Honours Lists 2017-2018**, *Faculty of Engineering, The University of Hong Kong*
@@ -32,21 +46,21 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 **Visual Embedding of Chinese** at *Computer Vision Group, The University of Hong Kong*
 
-- Sep. 2018 - Present
+- Sep. 2018 - Present.
 - Designing a novel model to improve Chinese embedding accuracy by utilizing visual features.
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
 - Bachelor’s final year project.
 
 **Factorized Attention** at *SenseTime*
 
-- Sep. 2018 - Nov. 2018
+- Sep. 2018 - Nov. 2018.
 - Proposed factorized attention, which reduced the memory and computational complexities of the self-attention mechanism from quadratic to linear and is applicable to computer vision and NLP.
 - Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on MS-COCO 2017) and stereo depth estimation (0.477 over 1.09 in EPE on Scene Flow) and significant improvement on instance seg-mentation (37.9 over 36.6 in AP on MS-COCO 2017).
 - Submitted a first-author [paper](#preprint) to a top-tier conference.
 
 **Project on Stereo Depth Estimation** at *SenseTime*
 
-- May 2018 - Aug. 2018
+- May 2018 - Aug. 2018.
 - Developed a stereo depth estimator based on PSMNet with improved training procedures.
 - Achieved 2x reduction in error rate (EPE) over the previous state-of-the-art on the Scene Flow dataset.
 - Primary contributor.
@@ -55,14 +69,14 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 **Software Engineering**, Teaching Assistant
 
-- Jan. 2019 - May 2019 \(not started)
+- Jan. 2019 - May 2019 \(not started).
 - To assist George Mitcheson, Guest Lecturer, Department of Computer Science, The University of Hong Kong
 
 # Other Projects
 
 [**BeautyNet**](https://github.com/cmsflash/beauty-net)
 
-- May 2018 - Present
+- May 2018 - Present.
 - Developed a PyTorch project template. Applied deduplication, modularization, and a consistent code style to improve maintainability, testability, and analyzability.
 - Became 2nd most popular PyTorch template on GitHub, got 180+ stars, and trended for 3 days.
 - Owner and primary contributor.
