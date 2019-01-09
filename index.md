@@ -60,7 +60,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Other Projects
 
-[**BeautyNet**](https://github.com/cms-flash/beauty-net)
+[**BeautyNet**](https://github.com/cmsflash/beauty-net)
 
 - May 2018 - Present
 - Developed a PyTorch project template. Applied deduplication, modularization, and a consistent code style to improve maintainability, testability, and analyzability.
