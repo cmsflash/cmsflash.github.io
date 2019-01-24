@@ -1,14 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 ---
 
 
-Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/) and a Research Intern at [SenseTime](https://www.sensetime.com/). His research interest is computer vision and natural language processing (NLP) with deep learning. In computer vision, his areas of focus include the attention mechanism and stereo vision. He is also interested in applying vision techniques in NLP.
+Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/) and a Research Intern at [SenseTime](https://www.sensetime.com/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [factorized attention](publication/2018/12/03/factorized-attention.html) in various domains. He also has interests in stereo vision, object detection, and Chinese embedding.
 
-# Preprints
+# Preprint
 
 - **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2018). [*Factorized Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). In submission.
 
@@ -54,7 +51,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 **Factorized Attention** at *SenseTime*
 
 - Sep. 2018 - Nov. 2018.
-- Proposed factorized attention, which reduced the memory and computational complexities of the self-attention mechanism from quadratic to linear and is applicable to computer vision and NLP.
+- Proposed factorized attention, which reduced the memory and computational complexities of the self-attention mechanism from quadratic to linear and is applicable to computer vision, NLP, and speech analysis.
 - Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on MS-COCO 2017) and stereo depth estimation (0.477 over 1.09 in EPE on Scene Flow) and significant improvement on instance seg-mentation (37.9 over 36.6 in AP on MS-COCO 2017).
 - Submitted a first-author [paper](#preprint) to a top-tier conference.
 
@@ -70,7 +67,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 **Software Engineering**, Teaching Assistant
 
 - Jan. 2019 - May 2019 \(not started).
-- To assist George Mitcheson, Guest Lecturer, Department of Computer Science, The University of Hong Kong
+- Assisting George Mitcheson, Guest Lecturer, Department of Computer Science, The University of Hong Kong
 
 # Other Projects
 
