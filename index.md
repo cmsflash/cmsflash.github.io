@@ -77,3 +77,9 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Developed a PyTorch project template. Applied deduplication, modularization, and a consistent code style to improve maintainability, testability, and analyzability.
 - Became 2nd most popular PyTorch template on GitHub, got 180+ stars, and trended for 3 days.
 - Owner and primary contributor.
+
+# Skills
+
+- **Programming**: Python, C, C++, Java, Shell script, Markdown, LaTeX
+- **Technologies**: PyTorch, Caffe, Git, Slurm, Django, Jekyll, Vim, CUDA, NumPy, OpenCV
+- **Languages**: Mandarin Chinese (native), English (working proficiency, 116 in TOEFL)
