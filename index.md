@@ -17,7 +17,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - *Bachelor of Engineering* in *Computer Science*.
 - CGPA: 3.97/4.30. Standing: 1/111. Major CGPA: 4.13/4.30.
 
-**University of California, Davis**, CA, Unites States
+**University of California, Davis**, Davis, CA, Unites States
 
 - Sep. 2017 - Dec. 2017.
 - *Bachelor's Reciprocity Student* in *Computer Science*.
