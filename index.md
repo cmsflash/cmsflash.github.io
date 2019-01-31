@@ -26,9 +26,9 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 # Work Experience
 
 **SenseTime**, Hong Kong
-*Research Intern, Perception of Objects Team, SenseTime Research*
 
 - Jun. 2017 - Present.
+- *Research Intern, Perception of Objects Team, SenseTime Research*
 - Developed a research project template that facilitated a team of ~40 to transition from Caffe to PyTorch.
 - Conducted academic research projects listed in [Research Experience](#research-experience).
 
