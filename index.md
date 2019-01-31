@@ -23,6 +23,15 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - *Bachelor's Reciprocity Student* in *Computer Science*.
 - GPA: 4.00/4.00.
 
+# Work Experience
+
+**SenseTime**, Hong Kong
+*Research Intern, Perception of Objects Team, SenseTime Research*
+
+- Jun. 2017 - Present.
+- Developed a research project template that facilitated a team of ~40 to transition from Caffe to PyTorch.
+- Conducted academic research projects listed in [Research Experience](#research-experience).
+
 # Awards
 
 - **Dean’s Honours Lists 2017-2018**, *Faculty of Engineering, The University of Hong Kong*
