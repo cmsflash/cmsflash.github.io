@@ -2,7 +2,7 @@
 layout: post
 title:  "Tracking the States-of-the-Art for Deep Learning Tasks"
 date:   2019-01-08 21:11:09 +0800
-categories: publication
+categories: AI
 ---
 
 TL;DR: [Deep Learning SotA](https://github.com/cmsflash/deep-learning-sota) is a new, actively maintained, neatly formatted project tracking the states-of-the-art for various tasks of deep learning. Star it if you like it.

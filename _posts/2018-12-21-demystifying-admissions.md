@@ -2,7 +2,7 @@
 layout: post
 title:  "The Most Comprehensive Article about US Graduate Admissions"
 date:   2018-12-21 15:10:07 +0800
-categories: publication
+categories: Applications
 ---
 
 TL;DR: Link to the article: [Demystifying the American Graduate Admissions Process](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf).
