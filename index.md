@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/) and a Research Intern at [SenseTime](https://www.sensetime.com/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [factorized attention](publication/2018/12/03/factorized-attention.html) in various domains. He also has interests in stereo vision, object detection, and Chinese embedding.
+Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/) and a Research Intern at [SenseTime](https://www.sensetime.com/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [factorized attention](ai/2018/12/03/factorized-attention.html) in various domains. He also has interests in stereo vision, object detection, and Chinese embedding.
 
 # Preprint
 
