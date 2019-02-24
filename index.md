@@ -50,6 +50,16 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Research Experience
 
+**Factorized Speech Transformer** at *SenseTime*
+
+- Jan. 2019 - Present.
+- Designing a novel speech recognizer with factorized attention and the Transformer.
+
+**Factorized Visual Transformer** at *SenseTime*
+
+- Jan. 2019 - Present.
+- Designing a novel backbone architecture for computer vision with factorized attention.
+
 **Visual Embedding of Chinese** at *Computer Vision Group, The University of Hong Kong*
 
 - Sep. 2018 - Present.
