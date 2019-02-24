@@ -28,7 +28,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 **SenseTime**, Hong Kong
 
 - Jun. 2017 - Present.
-- *Research Intern, Perception of Objects Team, SenseTime Research*
+- *Research Intern, Intelligent Perception and Services Team, Smart City Group*
 - Developed a research project template that facilitated a team of ~40 to transition from Caffe to PyTorch.
 - Conducted academic research projects listed in [Research Experience](#research-experience).
 
@@ -53,16 +53,20 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 **Factorized Speech Transformer** at *SenseTime*
 
 - Jan. 2019 - Present.
+- *Supervised by Dr. Yi Shuai, Vice Director of Research, SenseTime*
 - Designing a novel speech recognizer with factorized attention and the Transformer.
 
 **Factorized Visual Transformer** at *SenseTime*
 
 - Jan. 2019 - Present.
+- *Supervised by Dr. Yi Shuai, Vice Director of Research, SenseTime*
+- *In collaboration with Speech Group, Machine Intelligence Laboratory, Cambridge University*
 - Designing a novel backbone architecture for computer vision with factorized attention.
 
 **Visual Embedding of Chinese** at *Computer Vision Group, The University of Hong Kong*
 
 - Sep. 2018 - Present.
+- *Supervised by Dr. Kwan-Yee Kenneth Wong, Associate Professor, Computer Vision Group, The University of Hong Kong*
 - Designing a novel model to improve Chinese embedding accuracy by utilizing visual features.
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
 - Bachelor’s final year project.
@@ -70,13 +74,15 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 **Factorized Attention** at *SenseTime*
 
 - Sep. 2018 - Nov. 2018.
-- Proposed factorized attention, which reduced the memory and computational complexities of the self-attention mechanism from quadratic to linear and is applicable to computer vision, NLP, and speech analysis.
+- *Supervised by Dr. Yi Shuai, Vice Director of Research, SenseTime*
+- Proposed *factorized attention*, which reduced the memory and computational complexities of the self-attention mechanism from quadratic to linear and is applicable to computer vision, NLP, and speech analysis.
 - Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on MS-COCO 2017) and stereo depth estimation (0.477 over 1.09 in EPE on Scene Flow) and significant improvement on instance seg-mentation (37.9 over 36.6 in AP on MS-COCO 2017).
 - Submitted a first-author [paper](#preprint) to a top-tier conference.
 
 **Project on Stereo Depth Estimation** at *SenseTime*
 
 - May 2018 - Aug. 2018.
+- *Supervised by Dr. Yi Shuai, Vice Director of Research, SenseTime*
 - Developed a stereo depth estimator based on PSMNet with improved training procedures.
 - Achieved 2x reduction in error rate (EPE) over the previous state-of-the-art on the Scene Flow dataset.
 - Primary contributor.
