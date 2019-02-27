@@ -19,7 +19,7 @@ Having moved to the US, the atmosphere of the traditional holidays started to fe
 
 Right now, I am having fast dumplings in T-shirts and shorts, in the warm and pleasant weather in California. The dumplings are fulfilling the last bits of the sense of ceremony left in my memory. Well, let's just make this my Preliminary Eve.
 
-Today is January 28, 2019 and Layue 23, the Year of Earth and Dog, Pacific Standard Time and January 29, 2019 and Layue 24, the Year of Earth and Hound, Beijing Time. Both are the Preliminary Eve.
+Today is January 28, 2019 and Layue 23, the Year of Earth and Dog, Pacific Standard Time and January 29, 2019 and Layue 24, the Year of Earth and Dog, Beijing Time. Both are the Preliminary Eve.
 
 ---
 
