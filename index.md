@@ -96,7 +96,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Preprint
 
-- **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2018). [*Decomposed Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). arXiv:1812.01243.
+- **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2019). [*Decomposed Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). arXiv:1812.01243.
 
 # Skills
 
