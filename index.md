@@ -66,7 +66,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Sep. 2018 - Nov. 2018.
 - *Supervised by Dr. Yi Shuai, Vice Director of Research, SenseTime*
 - Proposed *decomposed attention*, which reduced the memory and computational complexities of the self-attention mechanism from quadratic to linear and is applicable to computer vision, NLP, and speech analysis.
-- Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on MS-COCO 2017) and stereo depth estimation (0.477 over 1.09 in EPE on Scene Flow) and significant improvement on instance segmentation (37.9 over 36.6 in AP on MS-COCO 2017).
+- Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on MS-COCO 2017) and stereo depth estimation (0.477 over 1.09 in EPE on Scene Flow) and significant improvement on instance segmentation (37.9 over 36.6 in AP on MS-COCO 2017) and image classification (93.7% over 93.0% in top-5 accuracy on ImageNet).
 - Submitted a first-author [paper](#preprint) to ICCV 2019.
 
 **Project on Stereo Depth Estimation** at *SenseTime*
