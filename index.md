@@ -46,18 +46,12 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Research Experience
 
-**Factorized Speech Transformer** at *SenseTime*
+**Universal Neural Networks** at *SenseTime*
 
 - Jan. 2019 - Present.
 - *Supervised by Dr. Yi Shuai, Vice Director of Research, SenseTime*
-- Designing a novel speech recognizer with factorized attention and the Transformer.
-
-**Factorized Visual Transformer** at *SenseTime*
-
-- Jan. 2019 - Present.
-- *Supervised by Dr. Yi Shuai, Vice Director of Research, SenseTime*
-- *In collaboration with Speech Group, Machine Intelligence Laboratory, Cambridge University*
-- Designing a novel backbone architecture for computer vision with factorized attention.
+- *In collaboration with [Speech Group, Machine Intelligence Laboratory, Cambridge University](https://mi.eng.cam.ac.uk/Main/Speech/WebHome)*
+- Designing a novel, universal network architecture for computer vision, natural language processing, and speech recognition with decomposed attention.
 
 **Visual Embedding of Chinese** at *Computer Vision Group, The University of Hong Kong*
 
@@ -67,13 +61,13 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
 - Bachelor’s final year project.
 
-**Factorized Attention** at *SenseTime*
+**Decomposed Attention** at *SenseTime*
 
 - Sep. 2018 - Nov. 2018.
 - *Supervised by Dr. Yi Shuai, Vice Director of Research, SenseTime*
-- Proposed *factorized attention*, which reduced the memory and computational complexities of the self-attention mechanism from quadratic to linear and is applicable to computer vision, NLP, and speech analysis.
+- Proposed *decomposed attention*, which reduced the memory and computational complexities of the self-attention mechanism from quadratic to linear and is applicable to computer vision, NLP, and speech analysis.
 - Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on MS-COCO 2017) and stereo depth estimation (0.477 over 1.09 in EPE on Scene Flow) and significant improvement on instance segmentation (37.9 over 36.6 in AP on MS-COCO 2017).
-- Submitted a first-author [paper](#preprint) to CVPR 2019. Received a reject due to coincidence of core ideas with [A2-Nets](https://arxiv.org/abs/1810.11579) at NeurIPS 2018.
+- Submitted a first-author [paper](#preprint) to ICCV 2019.
 
 **Project on Stereo Depth Estimation** at *SenseTime*
 
@@ -89,6 +83,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 - Jan. 2019 - May 2019.
 - *Assisting George Mitcheson, Guest Lecturer, Department of Computer Science, The University of Hong Kong*
+- Developed a Django server as the external HR server for student projects and deployed the server on [Heroku](https://gibice-hrserver.herokuapp.com/).
 
 # Other Projects
 
@@ -101,7 +96,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Preprint
 
-- **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2018). [*Factorized Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). arXiv:1812.01243.
+- **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2018). [*Decomposed Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). arXiv:1812.01243.
 
 # Skills
 
