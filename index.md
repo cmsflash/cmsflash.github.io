@@ -45,14 +45,14 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Research Experience
 
-**Universal Neural Networks** at *SenseTime*
+**Universal Neural Networks**, Industry Research Experience
 
 - Jan. 2019 - Present.
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
 - *In collaboration with [Speech Group, Machine Intelligence Laboratory, Cambridge University](https://mi.eng.cam.ac.uk/Main/Speech/WebHome)*
 - Designing a novel, universal network architecture for computer vision, natural language processing, and speech analysis with decomposed attention.
 
-**Human-Object Interaction Detection with Attentive Feature Pyramid and pairNMS** at *SenseTime*
+**Human-Object Interaction Detection with Attentive Feature Pyramid and pairNMS**, Industry Research Experience
 
 - Mar. 2019.
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
@@ -61,7 +61,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Improved the baseline role AP of 42.8 to 50.3 on the [V-COCO](https://arxiv.org/abs/1505.04474) dataset for relation detection and set a new state-of-the-art over the previous 48.7.
 - Submitted a [paper](#preprint) to ICCV 2019.
 
-**Visual Embedding of Chinese** at *Computer Vision Group, The University of Hong Kong*
+**Visual Embedding of Chinese**, Bachelor's Final-Year Project
 
 - Sep. 2018 - Present.
 - *Supervised by [Dr. Kwan-Yee Kenneth Wong](https://i.cs.hku.hk/~kykwong/), Associate Professor, [Computer Vision Group, The University of Hong Kong](http://www.visionlab.cs.hku.hk/)*
@@ -69,7 +69,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
 - Bachelor’s final year project.
 
-**Decomposed Attention** at *SenseTime*
+**Decomposed Attention**, Industry Research Experience
 
 - Sep. 2018 - Mar. 2019.
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
@@ -77,7 +77,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on [MS-COCO 2017](http://cocodataset.org/#detection-2017)) and stereo depth estimation (0.477 over 1.09 in EPE on [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)) and significant improvement on instance segmentation (37.9 over 36.6 in AP on MS-COCO 2017) and image classification (93.7% over 93.0% in top-5 accuracy on [ImageNet](https://www.kaggle.com/image-net)).
 - Submitted a first-author [paper](#preprint) to ICCV 2019.
 
-**Project on Stereo Depth Estimation** at *SenseTime*
+**Project on Stereo Depth Estimation**, Industry Research Experience
 
 - May 2018 - Aug. 2018.
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
@@ -91,7 +91,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 - Jan. 2019 - May 2019.
 - *Assisting [George Mitcheson](https://www.cs.hku.hk/people/profile.jsp?teacher=georgem), Guest Lecturer, Department of Computer Science, The University of Hong Kong*
-- Developed a Django server as the external HR server for student projects and deployed the server on [Heroku](https://gibice-hrserver.herokuapp.com/).
+- Developed a [Django server](https://github.com/gibicehr/hrserver) as the external HR server for student projects and deployed the server on [Heroku](https://gibice-hrserver.herokuapp.com/).
 
 # Other Projects
 
