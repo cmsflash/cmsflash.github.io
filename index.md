@@ -52,7 +52,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - *In collaboration with [Speech Group, Machine Intelligence Laboratory, Cambridge University](https://mi.eng.cam.ac.uk/Main/Speech/WebHome)*
 - Designing a novel, universal network architecture for computer vision, natural language processing, and speech analysis with decomposed attention.
 
-**Human-Object Interaction Detection with Attentive Feature Pyramid and pairNMS**, Industry Research Experience
+**Human-Object Interaction Detection**, Industry Research Experience
 
 - Mar. 2019.
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
@@ -77,7 +77,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on [MS-COCO 2017](http://cocodataset.org/#detection-2017)) and stereo depth estimation (0.477 over 1.09 in EPE on [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)) and significant improvement on instance segmentation (37.9 over 36.6 in AP on MS-COCO 2017) and image classification (93.7% over 93.0% in top-5 accuracy on [ImageNet](https://www.kaggle.com/image-net)).
 - Submitted a first-author [paper](#preprint) to ICCV 2019.
 
-**Project on Stereo Depth Estimation**, Industry Research Experience
+**Stereo Depth Estimation**, Industry Research Experience
 
 - May 2018 - Aug. 2018.
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
