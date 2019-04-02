@@ -50,7 +50,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Jan. 2019 - Present.
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
 - *In collaboration with [Speech Group, Machine Intelligence Laboratory, Cambridge University](https://mi.eng.cam.ac.uk/Main/Speech/WebHome)*
-- Designing a novel, universal network architecture for computer vision, natural language processing, and speech analysis with decomposed attention.
+- Designing a novel, unified network architecture for computer vision, natural language processing, and speech analysis with decomposed attention.
 
 **Human-Object Interaction Detection**, Industry Research Experience
 
