@@ -67,7 +67,6 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - *Supervised by [Dr. Kwan-Yee Kenneth Wong](https://i.cs.hku.hk/~kykwong/), Associate Professor, [Computer Vision Group, The University of Hong Kong](http://www.visionlab.cs.hku.hk/)*
 - Designing a novel model to improve Chinese embedding accuracy by utilizing visual features.
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
-- Bachelor’s final year project.
 
 **Decomposed Attention**, Industry Research Experience
 
