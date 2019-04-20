@@ -121,6 +121,7 @@ Next, we explore the effect of DA on different backbone networks. The table show
 Then, we compared the effectiveness of DA agaisnt conventional attention. As you can see, when inserting the same number of modules, DA and conventional attention have very similar performance. When adding more modules, DA's performance increases steadily. However, the conventional modules quickly experienced out-of-memory errors and wasn't able to enjoy the benefit brought by incorporating more modules into the network.
 
 | Method | Backbone | AP |
+| - | - | - |
 | TDM Faster R-CNN | Inception-ResNet-v2 | 36.8 |
 | Mask R-CNN | ResNeXt-101 | 39.8 |
 | Soft-NMS | Aligned-Inception-ResNet | 40.9 |
