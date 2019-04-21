@@ -48,7 +48,7 @@ However, if we more closely examine the diagram, we can see that `M` is surround
 
 ![Swapping the two multiplications lead to massive saving of resrouce usage](/assets/2019-04-20-decomposed-attention/association.png)
 
-After the swapping, the size of the intermediate result changes from `s*s` to `k*c`. Since both `k` and `c` are constants under our control, the resultant memory complexity is `O(1)`. After some calculation, you can get the computational complexity, which is `O(s)`. This is the *decomposed attention* (DA) mechanism.
+After the swapping, the size of the intermediate result changes from `n*n` to `k*c`. Since both `k` and `c` are constants under our control, the resultant memory complexity is `O(1)`. After some calculation, you can get the computational complexity, which is `O(n)`. This is the *decomposed attention* (DA) mechanism.
 
 ![Illustration of the network architecture for decomposed attention](/assets/2019-04-20-decomposed-attention/da.png)
 
@@ -70,7 +70,7 @@ The multi-head mechanism is a method to enhance the expressive power of a self-a
 
 ![The multi-head mechanism](/assets/2019-04-20-decomposed-attention/multihead.png)
 
-The self-attention module used by the multi-head mechanism can be arbitary. For example, both conventional self-attention modules and DA modules are supported. However, since each conventional attention module will consume `O(s^2)` memory and computation, the total resource usage will scale linearly with the number of heads. In contrast, since the resource consumptions of a DA module is `O(cs)`, and the multi-head mechanism usually reduces the number of channels for each head by the number of heads, the total consumptions of a DA module have little changes when the number of heads increases. Somewhat surprisingly, the total consumptions decrease slightly with the increase of the number of heads. (For detailed analysis, refer to the [paper](https://arxiv.org/abs/1812.01243).)
+The self-attention module used by the multi-head mechanism can be arbitary. For example, both conventional self-attention modules and DA modules are supported. However, since each conventional attention module will consume `O(n^2)` memory and computation, the total resource usage will scale linearly with the number of heads. In contrast, since the resource consumptions of a DA module is `O(cn)`, and the multi-head mechanism usually reduces the number of channels for each head by the number of heads, the total consumptions of a DA module have little changes when the number of heads increases. Somewhat surprisingly, the total consumptions decrease slightly with the increase of the number of heads. (For detailed analysis, refer to the [paper](https://arxiv.org/abs/1812.01243).)
 
 # Empirical Validation
 
