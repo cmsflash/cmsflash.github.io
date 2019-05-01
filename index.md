@@ -90,8 +90,9 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 **Software Engineering**, Teaching Assistant
 
 - Jan. 2019 - May 2019.
-- *Assisting [George Mitcheson](https://www.cs.hku.hk/people/profile.jsp?teacher=georgem), Guest Lecturer, Department of Computer Science, The University of Hong Kong*
+- *Assisted [George Mitcheson](https://www.cs.hku.hk/people/profile.jsp?teacher=georgem), Guest Lecturer, Department of Computer Science, The University of Hong Kong*
 - Developed a [Django server](https://github.com/gibicehr/hrserver) as the external HR server for student projects and deployed the server on [Heroku](https://gibice-hrserver.herokuapp.com/).
+- Answered questions from and held consultations with students on Git, the Unified Modeling Language, and software design and engineering principles.
 
 # Other Projects
 
