@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/) and a Research Intern at [SenseTime](https://www.sensetime.com/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [decomposed attention](ai/2019/03/23/decomposed-attention.html) in various domains. He also has interests in stereo vision, object recognition, and relation detection.
+Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/), a Research Intern at [SenseTime](https://www.sensetime.com/), and an incoming AI Resident at [Google AI](https://ai.google/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [decomposed attention](ai/2019/03/23/decomposed-attention.html) in various domains. He also has interests in stereo vision, object recognition, and relation detection.
 
 # Education
 
@@ -19,6 +19,12 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - GPA: 4.00/4.00.
 
 # Work Experience
+
+**Google (incoming)**, Seattle, WA, United States
+
+- Oct. 2019 - Oct. 2020a
+- *AI Resident, Mobile Intelligence and On-Device Machine Learning Team, Google AI*
+- To work on fundemantal research for deep learning.
 
 **SenseTime**, Hong Kong
 
@@ -60,6 +66,14 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
 - Set a new state-of-the-art of 37.6% over the previous 15.6% in Spearman's rho for word similarity estimation on [WordSim-297 Chinese](https://github.com/Leonard-Xu/CWE/blob/master/data/297.txt) with character embedding
 
+**Visual Embedding of Chinese**, Bachelor's Final-Year Project
+
+- Sep. 2018 – Apr. 2019
+- *Supervised by [Dr. Kwan-Yee Kenneth Wong](https://i.cs.hku.hk/~kykwong/), Associate Professor, [Computer Vision Group, The University of Hong Kong](http://www.visionlab.cs.hku.hk/)*
+- Designed *OceanText*, a novel character embedding algorithm for Chinese that extracts a semantic embedding from the image of a Chinese character with a convolutional neural network.
+- Set a new state-of-the-art of 37.6% over the previous 15.6% in Spearman’s rho for word similarity estimation on WordSim-297 Chinese with character embedding.
+- Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours in comparison to existing open-source implementations.
+
 **Human-Object Interaction Detection**, Industry Research Experience
 
 - Mar. 2019.
@@ -83,7 +97,6 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
 - Developed a stereo depth estimator based on PSMNet with improved training procedures.
 - Achieved 2x reduction in error rate (EPE) over the previous state-of-the-art on the [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html) dataset.
-- Primary investigator.
 
 # Teaching Experience
 
@@ -91,7 +104,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 - Jan. 2019 - May 2019.
 - *Assisted [George Mitcheson](https://www.cs.hku.hk/people/profile.jsp?teacher=georgem), Guest Lecturer, Department of Computer Science, The University of Hong Kong*
-- Developed a [Django server](https://github.com/gibicehr/hrserver) as the external HR server for student projects and deployed the server on [Heroku](https://gibice-hrserver.herokuapp.com/).
+- Developed a [Django server](https://github.com/gibicehr/hrserver) as the external HR server for student projects and deployed it to [Heroku](https://gibice-hrserver.herokuapp.com/).
 - Answered questions from and held consultations with students on Git, the Unified Modeling Language, and software design and engineering principles.
 
 # Other Projects
