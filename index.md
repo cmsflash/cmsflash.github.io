@@ -43,7 +43,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Programming Contests
 
-- **First Runner-up**, *ACM-HK Programming Contest 2017*
+- [**First Runner-up**](https://www.cs.hku.hk/news/display.jsp?file=2017/0717_ACM-HK_2017.htm), *ACM-HK Programming Contest 2017*
 - **Second Runner-up**, *ACM-ICPC Hong Kong PolyU International Invitational 2017*
 - **Second Runner-up**, *hackUST 2017 Radica Challenge*
 - **Invited to A Day with Google**, *Google Code Jam 2017 Asia-Pacific University Test*
