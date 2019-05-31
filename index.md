@@ -22,7 +22,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 **Google (incoming)**, Seattle, WA, United States
 
-- Oct. 2019 - Oct. 2020a
+- Oct. 2019 - Oct. 2020.
 - *AI Resident, Mobile Intelligence and On-Device Machine Learning Team, Google AI*
 - To work on fundemantal research for deep learning.
 
