@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/), a Research Intern at [SenseTime](https://www.sensetime.com/), and an incoming AI Resident at [Google AI](https://ai.google/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [decomposed attention](ai/2019/03/23/decomposed-attention.html) in various domains. He also has interests in stereo vision, object recognition, and relation detection.
+Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/) and an incoming AI Resident at [Google AI](https://ai.google/). Formerly, he was a Research Intern at [SenseTime](https://www.sensetime.com/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [decomposed attention](ai/2019/03/23/decomposed-attention.html) in various domains. He also has interests in stereo vision, object recognition, and relation detection.
 
 # Education
 
@@ -28,7 +28,7 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 **SenseTime**, Hong Kong
 
-- Jun. 2017 - Present.
+- Jun. 2017 - Jun. 2019.
 - *Research Intern, Intelligent Perception and Services Team, Smart City Group*
 - Developed a research project template that facilitated a team of ~40 to transition from Caffe to PyTorch.
 - Conducted academic research projects listed in [Research Experience](#research-experience).
