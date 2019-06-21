@@ -2,15 +2,15 @@
 layout: page
 ---
 
-Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/) and an incoming AI Resident at [Google AI](https://ai.google/). Formerly, he was a Research Intern at [SenseTime](https://www.sensetime.com/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [decomposed attention](ai/2019/03/23/decomposed-attention.html) in various domains. He also has interests in stereo vision, object recognition, and relation detection.
+Shen Zhuoran \(Zhuoran is the first name) is a Computer Science graduate from [The University of Hong Kong](https://www.cs.hku.hk/) and an incoming AI Resident at [Google AI](https://ai.google/). Formerly, he was a Research Intern at [SenseTime](https://www.sensetime.com/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [decomposed attention](ai/2019/03/23/decomposed-attention.html) in various domains. He also has interests in stereo vision, object recognition, and relation detection.
 
 # Education
 
 **The University of Hong Kong**, Hong Kong
 
-- Sep. 2015 - Present.
+- Sep. 2015 - Jun. 2016.
 - *Bachelor of Engineering* in *Computer Science*.
-- CGPA: 3.97/4.30. Standing: 1/111. Major CGPA: 4.13/4.30.
+- GPA: 3.85/4.30. Standing: 1/111. Major GPA: 3.98/4.30.
 
 **University of California, Davis**, Davis, CA, Unites States
 
