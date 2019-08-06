@@ -2,15 +2,15 @@
 layout: page
 ---
 
-Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The University of Hong Kong](https://www.cs.hku.hk/) and an incoming AI Resident at [Google AI](https://ai.google/). Formerly, he was a Research Intern at [SenseTime](https://www.sensetime.com/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [decomposed attention](ai/2019/03/23/decomposed-attention.html) in various domains. He also has interests in stereo vision, object recognition, and relation detection.
+Shen Zhuoran \(Zhuoran is the first name) is a Research Intern at Tencent. Formerly, he was a Research Intern at [SenseTime](https://www.sensetime.com/). He graduated from The University of Hong Kong with a BEng(CompSc) degree. His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [decomposed attention](ai/2019/03/23/decomposed-attention.html) in various domains. He also has interests in stereo vision, object recognition, and relation detection.
 
 # Education
 
 **The University of Hong Kong**, Hong Kong
 
-- Sep. 2015 - Present.
+- Sep. 2015 - Jun. 2019.
 - *Bachelor of Engineering* in *Computer Science*.
-- CGPA: 3.97/4.30. Standing: 1/111. Major CGPA: 4.13/4.30.
+- GPA: 3.85/4.30. Standing: 1/111. Major GPA: 3.96/4.30.
 
 **University of California, Davis**, Davis, CA, Unites States
 
@@ -20,11 +20,11 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Work Experience
 
-**Google (incoming)**, Seattle, WA, United States
+**Tencent**, Shenzhen, China
 
 - Oct. 2019 - Oct. 2020.
-- *AI Resident, Mobile Intelligence and On-Device Machine Learning Team, Google AI*
-- To work on fundemantal research for deep learning.
+- *Research Intern, Center for Applied Research, Platform and Content Group*
+- Working on unsupervised video understanding.
 
 **SenseTime**, Hong Kong
 
@@ -51,28 +51,13 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 
 # Research Experience
 
-**Universal Neural Networks**, Industry Research Experience
-
-- Jan. 2019 - Present.
-- *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
-- *In collaboration with [Speech Group, Machine Intelligence Laboratory, Cambridge University](https://mi.eng.cam.ac.uk/Main/Speech/WebHome)*
-- Designing a novel, unified network architecture for computer vision, natural language processing, and speech analysis with decomposed attention.
-
 **Visual Embedding of Chinese**, Bachelor's Final-Year Project
 
 - Sep. 2018 - Apr. 2019.
 - *Supervised by [Dr. Kwan-Yee Kenneth Wong](https://i.cs.hku.hk/~kykwong/), Associate Professor, [Computer Vision Group, The University of Hong Kong](http://www.visionlab.cs.hku.hk/)*
-- Designed a novel model to improve Chinese embedding accuracy by utilizing visual features.
+- Designed *OceanText*, a novel character embedding algorithm for Chinese that extracts a semantic embedding from the image of a Chinese character with a convolutional neural network.
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
 - Set a new state-of-the-art of 37.6% over the previous 15.6% in Spearman's rho for word similarity estimation on [WordSim-297 Chinese](https://github.com/Leonard-Xu/CWE/blob/master/data/297.txt) with character embedding
-
-**Visual Embedding of Chinese**, Bachelor's Final-Year Project
-
-- Sep. 2018 – Apr. 2019
-- *Supervised by [Dr. Kwan-Yee Kenneth Wong](https://i.cs.hku.hk/~kykwong/), Associate Professor, [Computer Vision Group, The University of Hong Kong](http://www.visionlab.cs.hku.hk/)*
-- Designed *OceanText*, a novel character embedding algorithm for Chinese that extracts a semantic embedding from the image of a Chinese character with a convolutional neural network.
-- Set a new state-of-the-art of 37.6% over the previous 15.6% in Spearman’s rho for word similarity estimation on WordSim-297 Chinese with character embedding.
-- Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours in comparison to existing open-source implementations.
 
 **Human-Object Interaction Detection**, Industry Research Experience
 
@@ -81,7 +66,6 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Proposed *attentive feature pyramid*, a feature pyramid with decomposed attention for relation detection.
 - Proposed *pairNMS*, an effective non-maximum suppression mechanism for relation detection.
 - Improved the baseline role AP of 42.8 to 50.3 on the [V-COCO](https://arxiv.org/abs/1505.04474) dataset for relation detection and set a new state-of-the-art over the previous 48.7.
-- Submitted a [paper](#preprint) to ICCV 2019.
 
 **Decomposed Attention**, Industry Research Experience
 
@@ -91,9 +75,16 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 - Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on [MS-COCO 2017](http://cocodataset.org/#detection-2017)) and stereo depth estimation (0.477 over 1.09 in EPE on [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)) and significant improvement on instance segmentation (37.9 over 36.6 in AP on MS-COCO 2017) and image classification (93.7% over 93.0% in top-5 accuracy on [ImageNet](https://www.kaggle.com/image-net)).
 - Submitted a first-author [paper](#preprint) to ICCV 2019.
 
+**Diabetic Retinopathy Analysis**, Industry Research Experience
+
+- Sep. 2018 – Oct. 2019
+- *Supervised by Zhao Haiyu, Senior Research Scientist, SenseTime*
+- Experimented with different hyperparameter and network architectures.
+- Improved the accuracy on the [IDRiD](https://idrid.grand-challenge.org/Grading/) dataset from 40.5% to 59.6%.
+
 **Stereo Depth Estimation**, Industry Research Experience
 
-- May 2018 - Aug. 2018.
+- May 2018 - Sep. 2018.
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
 - Developed a stereo depth estimator based on PSMNet with improved training procedures.
 - Achieved 2x reduction in error rate (EPE) over the previous state-of-the-art on the [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html) dataset.
@@ -119,7 +110,6 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science student at [The 
 # Preprint
 
 - **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2019). [*Decomposed Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). arXiv:1812.01243.
-- Zhang M., Wu J., Jin D., **Shen Z.**, Yi S., and Zhao H. (2019). *Human-Object Interaction Detection with Attentive Feature Pyramid and pairNMS*. In submission.
 
 # Skills
 
