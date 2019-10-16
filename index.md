@@ -8,9 +8,9 @@ Shen Zhuoran \(Zhuoran is the first name) is an AI Resident at [Google AI](https
 
 **The University of Hong Kong**, Hong Kong
 
-- Sep. 2015 - Jun. 2016.
+- Sep. 2015 - Jun. 2019.
 - *Bachelor of Engineering* in *Computer Science*.
-- GPA: 3.85/4.30. Standing: 1/111. Major GPA: 3.98/4.30.
+- GPA: 3.85/4.30. Standing: 1/111. Major GPA: 3.96/4.30.
 
 **University of California, Davis**, Davis, CA, Unites States
 
@@ -62,7 +62,7 @@ Shen Zhuoran \(Zhuoran is the first name) is an AI Resident at [Google AI](https
 
 - Sep. 2018 - Apr. 2019.
 - *Supervised by [Dr. Kwan-Yee Kenneth Wong](https://i.cs.hku.hk/~kykwong/), Associate Professor, [Computer Vision Group, The University of Hong Kong](http://www.visionlab.cs.hku.hk/)*
-- Designed a novel model to improve Chinese embedding accuracy by utilizing visual features.
+- Designed *OceanText*, a novel character embedding algorithm for Chinese that extracts a semantic embedding from the image of a Chinese character with a convolutional neural network.
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
 - Set a new state-of-the-art of 37.6% over the previous 15.6% in Spearman's rho for word similarity estimation on [WordSim-297 Chinese](https://github.com/Leonard-Xu/CWE/blob/master/data/297.txt) with character embedding
 
@@ -73,7 +73,6 @@ Shen Zhuoran \(Zhuoran is the first name) is an AI Resident at [Google AI](https
 - Proposed *attentive feature pyramid*, a feature pyramid with decomposed attention for relation detection.
 - Proposed *pairNMS*, an effective non-maximum suppression mechanism for relation detection.
 - Improved the baseline role AP of 42.8 to 50.3 on the [V-COCO](https://arxiv.org/abs/1505.04474) dataset for relation detection and set a new state-of-the-art over the previous 48.7.
-- Submitted a [paper](#preprint) to ICCV 2019.
 
 **Decomposed Attention**, Industry Research Experience
 
@@ -83,9 +82,16 @@ Shen Zhuoran \(Zhuoran is the first name) is an AI Resident at [Google AI](https
 - Achieved new states-of-the-art on object detection (43.1 over 41.8 in AP on [MS-COCO 2017](http://cocodataset.org/#detection-2017)) and stereo depth estimation (0.477 over 1.09 in EPE on [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)) and significant improvement on instance segmentation (37.9 over 36.6 in AP on MS-COCO 2017) and image classification (93.7% over 93.0% in top-5 accuracy on [ImageNet](https://www.kaggle.com/image-net)).
 - Submitted a first-author [paper](#preprint) to ICCV 2019.
 
+**Diabetic Retinopathy Analysis**, Industry Research Experience
+
+- Sep. 2018 – Oct. 2019
+- *Supervised by Zhao Haiyu, Senior Research Scientist, SenseTime*
+- Experimented with different hyperparameter and network architectures.
+- Improved the accuracy on the [IDRiD](https://idrid.grand-challenge.org/Grading/) dataset from 40.5% to 59.6%.
+
 **Stereo Depth Estimation**, Industry Research Experience
 
-- May 2018 - Aug. 2018.
+- May 2018 - Sep. 2018.
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
 - Developed a stereo depth estimator based on PSMNet with improved training procedures.
 - Achieved 2x reduction in error rate (EPE) over the previous state-of-the-art on the [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html) dataset.
@@ -111,7 +117,6 @@ Shen Zhuoran \(Zhuoran is the first name) is an AI Resident at [Google AI](https
 # Preprint
 
 - **Shen Z.**, Zhang M., Yi S., Yan J., and Zhao H. (2019). [*Decomposed Attention: Self-Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). arXiv:1812.01243.
-- Zhang M., Wu J., Jin D., **Shen Z.**, Yi S., and Zhao H. (2019). *Human-Object Interaction Detection with Attentive Feature Pyramid and pairNMS*. In submission.
 
 # Skills
 
