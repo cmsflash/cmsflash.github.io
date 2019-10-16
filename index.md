@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Shen Zhuoran \(Zhuoran is the first name) is a Computer Science graduate from [The University of Hong Kong](https://www.cs.hku.hk/) and an incoming AI Resident at [Google AI](https://ai.google/). Formerly, he was a Research Intern at [SenseTime](https://www.sensetime.com/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [decomposed attention](ai/2019/03/23/decomposed-attention.html) in various domains. He also has interests in stereo vision, object recognition, and relation detection.
+Shen Zhuoran \(Zhuoran is the first name) is an AI Resident at [Google AI](https://ai.google/). Formerly, he was a Research Intern at [Tencent](https://www.tencent.com/) and [SenseTime](https://www.sensetime.com/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [decomposed attention](ai/2019/03/23/decomposed-attention.html) in various domains. He also has interests in stereo vision, object recognition, and relation detection.
 
 # Education
 
@@ -20,11 +20,18 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science graduate from [T
 
 # Work Experience
 
-**Google (incoming)**, Seattle, WA, United States
+**Google**, Seattle, WA, United States
 
 - Oct. 2019 - Oct. 2020.
-- *AI Resident, Mobile Intelligence and On-Device Machine Learning Team, Google AI*
-- To work on fundemantal research for deep learning.
+- *AI Resident, Cerebra Team, Google AI*
+- Working on mobile and on-device machine learning.
+
+**Tencent**, Shenzhen, Guangdong, China
+
+- Jul. 2019 - Sep. 2020.
+- *Research Intern, Center for Applied Research, Platform and Content Group*
+- Developed a video object segmentation model. Achieved a J measure (IoU) of 76.4%.
+- Designed a natural scribble synthesis algorithm with skeletonization and random walks to improve data synthesis for interactive object segmentation.
 
 **SenseTime**, Hong Kong
 
@@ -51,13 +58,6 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science graduate from [T
 
 # Research Experience
 
-**Universal Neural Networks**, Industry Research Experience
-
-- Jan. 2019 - Present.
-- *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Vice Director of Research, SenseTime*
-- *In collaboration with [Speech Group, Machine Intelligence Laboratory, Cambridge University](https://mi.eng.cam.ac.uk/Main/Speech/WebHome)*
-- Designing a novel, unified network architecture for computer vision, natural language processing, and speech analysis with decomposed attention.
-
 **Visual Embedding of Chinese**, Bachelor's Final-Year Project
 
 - Sep. 2018 - Apr. 2019.
@@ -65,14 +65,6 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science graduate from [T
 - Designed a novel model to improve Chinese embedding accuracy by utilizing visual features.
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
 - Set a new state-of-the-art of 37.6% over the previous 15.6% in Spearman's rho for word similarity estimation on [WordSim-297 Chinese](https://github.com/Leonard-Xu/CWE/blob/master/data/297.txt) with character embedding
-
-**Visual Embedding of Chinese**, Bachelor's Final-Year Project
-
-- Sep. 2018 – Apr. 2019
-- *Supervised by [Dr. Kwan-Yee Kenneth Wong](https://i.cs.hku.hk/~kykwong/), Associate Professor, [Computer Vision Group, The University of Hong Kong](http://www.visionlab.cs.hku.hk/)*
-- Designed *OceanText*, a novel character embedding algorithm for Chinese that extracts a semantic embedding from the image of a Chinese character with a convolutional neural network.
-- Set a new state-of-the-art of 37.6% over the previous 15.6% in Spearman’s rho for word similarity estimation on WordSim-297 Chinese with character embedding.
-- Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours in comparison to existing open-source implementations.
 
 **Human-Object Interaction Detection**, Industry Research Experience
 
@@ -124,5 +116,5 @@ Shen Zhuoran \(Zhuoran is the first name) is a Computer Science graduate from [T
 # Skills
 
 - **Programming**: Python, C, C++, Java, Shell script, Markdown, LaTeX
-- **Technologies**: PyTorch, Caffe, Git, Slurm, Django, Jekyll, Vim, CUDA, NumPy, OpenCV
+- **Technologies**: PyTorch, Caffe, Git, Slurm, Django, Jekyll, Vim, CUDA, NumPy, OpenCV, Piper
 - **Languages**: Mandarin Chinese (native), English (working proficiency, 116 in TOEFL)
