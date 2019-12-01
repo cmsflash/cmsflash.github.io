@@ -41,7 +41,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google AI](https:
 
 # Awards
 
-- **Dean’s Honours List 2017-2018**, *Faculty of Engineering, The University of Hong Kong*
+- [**Dean’s Honours List 2017-2018**](https://www.cs.hku.hk/data/news/2017/0717_ACM-HK_2017.htm), *Faculty of Engineering, The University of Hong Kong*
 - **Dean’s Honours List 2016-2017**, *Faculty of Engineering, The University of Hong Kong*
 - **Dean’s Honours List 2015-2016**, *Faculty of Engineering, The University of Hong Kong*
 - **Dean’s Honor List, Fall Quarter 2017**, *College of Letters and Science, University of California, Davis*
