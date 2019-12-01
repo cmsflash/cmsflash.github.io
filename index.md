@@ -30,7 +30,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google AI](https:
 
 - Jul. 2019 - Sep. 2019.
 - *Research Intern, Applied Research Center, Platform and Content Group*
-- Designed and validated the *global context* module, which uses *efficient attention* to achieve linear complexities in spatial size and constant complexities in temporal span for deep video memories. Details in [Research Experience](#research-experience)
+- Designed and validated the *global context* module. Details in [Research Experience](#research-experience)
 - Designed a natural scribble synthesis algorithm using skeletonization and random walks to improve data synthesis for interactive object segmentation.
 
 **SenseTime**, Hong Kong
@@ -59,7 +59,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google AI](https:
 
 **Global Context Module**, Tencent
 - Jul. 2019 - Sep. 2019.
-- *Supervised by [Dr. Li Yu](https://yu-li.github.io/), Senior Research Scientist, Tencent.*
+- *Supervised by [Dr. Shan Ying](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en), Director of Applied Research Center, Platform and Content Group, Tencent.*
 - Proposed the *global context* module, which uses *efficient attention* to achieve linear complexities in spatial size and constant complexities in temporal duration for deep video memory.
 - Built the first real-time video object segmenter that has state-of-the-art accuracy (86.6, J&F @ 25 FPS, [DAVIS 2016](https://davischallenge.org/)).
 - Submitted a first-author [paper](#preprints) to CVPR 2020.
