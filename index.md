@@ -37,6 +37,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google AI](https:
 
 - Jun. 2017 - Jun. 2019.
 - *Research Intern, Intelligent Perception and Services Team, Smart City Group*
+- Worked on the inception of an autonomous driving project, including task identification, data scheme de-sign, coordination of collection and labeling, and algorithmic design and validation.
 - Conducted academic research projects listed in [Research Experience](#research-experience).
 
 # Awards
@@ -52,8 +53,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google AI](https:
 - [**First Runner-up**](https://www.cs.hku.hk/data/news/2017/0717_ACM-HK_2017.htm), *ACM-HK Programming Contest 2017*
 - **Second Runner-up**, *ACM-ICPC Hong Kong PolyU International Invitational 2017*
 - **Second Runner-up**, *hackUST 2017 Radica Challenge*
-- **Invited to A Day with Google**, *Google Code Jam 2017 Asia-Pacific University Test*
-- **First Prize**, *China’s National Olympiad of Informatics in Provinces 2014*
+- **First Prize**, *National Olympiad of Informatics in Provinces (China) 2014*
 
 # Research Experience
 
@@ -87,7 +87,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google AI](https:
 - *Supervised by [Dr. Kwan-Yee Kenneth Wong](https://i.cs.hku.hk/~kykwong/), Associate Professor, [Computer Vision Group, The University of Hong Kong](http://www.visionlab.cs.hku.hk/).*
 - Designed *OceanText*, a novel character embedding algorithm for Chinese that extracts a semantic embedding from the image of a Chinese character with a convolutional neural network.
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
-- Set a new state-of-the-art of 37.6% over the previous 15.6% in Spearman's rho for word similarity estimation on [WordSim-297 Chinese](https://github.com/Leonard-Xu/CWE/blob/master/data/297.txt) with character embedding
+- Set a new state-of-the-art for word similarity estimation from character embeddings (15.6%→37.6 Spearman's ρ, [WordSim-297 Chinese](https://github.com/Leonard-Xu/CWE/blob/master/data/297.txt)).
 
 **Diabetic Retinopathy Analysis**, Industry Research Experience
 
