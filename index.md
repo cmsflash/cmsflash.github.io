@@ -37,8 +37,8 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google AI](https:
 
 - Jun. 2017 - Jun. 2019.
 - *Research Intern, Intelligent Perception and Services Team, Smart City Group*
-- Worked on the inception of an autonomous driving project, including task identification, data scheme de-sign, coordination of collection and labeling, and algorithmic design and validation.
 - Conducted academic research projects listed in [Research Experience](#research-experience).
+- Worked on the inception of an autonomous driving project, including task identification, data scheme de-sign, coordination of collection and labeling, and algorithmic design and validation.
 
 # Awards
 
