@@ -49,7 +49,7 @@ However, if we more closely examine the diagram, we can see that `M` is surround
 
 After the swapping, the size of the intermediate result changes from `n*n` to `k*c`. Since both `k` and `c` are constants under our control, the resultant memory complexity is `O(1)`. After some calculation, you can get the computational complexity, which is `O(n)`. This is the *efficient attention* mechanism.
 
-![Illustration of the network architecture for efficient attention](/assets/2019-12-02-efficient-attention/da.png)
+![Illustration of the network architecture for efficient attention](/assets/2019-12-02-efficient-attention/ea.png)
 
 ## What about Normalization?
 
