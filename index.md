@@ -123,7 +123,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google AI](https:
 
 # Preprints
 
-- Li Y.\*, **Shen Z.**\*, Shan Y. (2019). *Fast Video Object Segmentation using the Global Context Module*. In submission. \*Equal contributions.
+- Li Y.\*, **Shen Z.**\*, Shan Y. (2019). [*Fast Video Object Segmentation using the Global Context Module*](https://arxiv.org/abs/2001.11243). arXiv: 2001.11243. **\*Equal contributions**.
 
 - **Shen Z.**, Zhang M., Zhao H., Yi S., Li H. (2019). [*Efficient Attention: Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). arXiv:1812.01243.
 
