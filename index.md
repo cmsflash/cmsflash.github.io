@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google AI](https://ai.google/). Formerly, he was Research Interns at [Tencent](https://www.tencent.com/en-us/) and [SenseTime](https://www.sensetime.com/en/). He graduated with a BEng in Compute Science from [The University of Hong Kong](https://www.hku.hk/). His research interests include computer vision, natural language processing (NLP), and speech analysis with deep learning. Currently, he focuses on the the attention mechanism, especially the application of [efficient attention](ai/2019/12/02/efficient-attention.html) in various domains. He also has interests in stereo vision, object recognition, and visual relationship detection.
+Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](https://research.google/). He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) and has formerly been Research Interns at [Tencent](https://www.tencent.com/en-us/) and [SenseTime](https://www.sensetime.com/en/). He currently focuses on the the attention mechanism, including the application of [efficient attention](ai/2019/12/02/efficient-attention.html) in various domains and fully-attentional visual modeling. He also has interests in stereo vision tasks and natural language processing.
 
 # Education
 
