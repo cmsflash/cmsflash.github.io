@@ -24,14 +24,13 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 
 - Oct. 2019 - Present.
 - *AI Resident, Cerebra Team, Google AI*
-- Working on foundations of fully-attentional visual modeling.
+- Working on foundations of fully-attentional visual modeling. Prepared a submission to NeurIPS 2020.
 
 **Tencent**, Shenzhen, Guangdong, China
 
 - Jul. 2019 - Sep. 2019.
 - *Research Intern, Applied Research Center, Platform and Content Group*
 - Designed and validated the *global context* module. Details in [Research Experience](#research-experience)
-- Designed a natural scribble synthesis algorithm using skeletonization and random walks to improve data synthesis for interactive object segmentation.
 
 **SenseTime**, Hong Kong
 
@@ -62,7 +61,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 - *Supervised by [Dr. Shan Ying](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en), Director of Applied Research Center, Platform and Content Group, Tencent.*
 - Proposed the *global context* module, which uses *efficient attention* to achieve linear complexities in spatial size and constant complexities in temporal duration for deep video memory.
 - Built the first real-time video object segmenter that has state-of-the-art accuracy (86.6, J&F @ 25 FPS, [DAVIS 2016](https://davischallenge.org/)).
-- Submitted a first-author [paper](#preprints) to CVPR 2020.
+- To present a first-author [paper](#preprints) at ECCV 2020..
 
 **Efficient Attention**, Industry Research Experience
 
@@ -71,15 +70,14 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 - *In collaboration with [Dr. Li Hongsheng](https://www.ee.cuhk.edu.hk/~hsli/), Assistant Professor, [Multimedia Laboratory, Chinese University of Hong Kong](http://mmlab.ie.cuhk.edu.hk/).*
 - Proposed *efficient attention*, which reduced the memory and computational complexities of the attention mechanism from quadratic to linear and is applicable to computer vision, natural language processing (NLP), and speech analysis.
 - Achieved new states-of-the-art on object detection (41.8→43.1, AP, [COCO 2017](http://cocodataset.org/#detection-2017)) and stereo depth estimation (1.09→0.477, EPE, [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)) and significant improvement on instance segmentation (36.6→37.9, AP, [COCO 2017](http://cocodataset.org/#detection-2017)) and image classification (93.0%→93.7%, top-5 accuracy, [ImageNet](https://www.kaggle.com/image-net)).
-- Submitted a first-author [paper](#preprints) to CVPR 2020.
+- Submitted a first-author [paper](#preprints) to WACV 2021.
 
-**Context Voted Attention Networks**, Industry Research Experience
+**Heterogeneous Graph Neural Network**, Industry Research Experience
 
 - Mar. 2019 - Jun. 2019.
 - *Supervised by [Zhao Haiyu](https://scholar.google.com/citations?user=oGM5N1kAAAAJ), Senior Research Scientist, SenseTime.*
-- Proposed *context voted attention networks*, which use instance-instance attention and pixel-instance attention modules to enhance contextual information for visual relationship detection.
+- Proposed *heterogeneous graph neural network*, which uses instance-instance attention and pixel-instance attention modules to enhance contextual information for visual relationship detection.
 - Set new states-of-the-art on visual relationship detection (52.0→52.9, role AP, [V-COCO](https://arxiv.org/abs/1505.04474); 33.91→38.79, recall@100&k=70, [VRD](https://cs.stanford.edu/people/ranjaykrishna/vrd/)).
-- Submitted a [paper](#preprints) to CVPR 2020.
 
 **Visual Embedding of Chinese**, Bachelor's Final-Year Project
 
@@ -123,11 +121,9 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 
 # Preprints
 
-- Li Y.\*, **Shen Z.**\*, Shan Y. (2019). [*Fast Video Object Segmentation using the Global Context Module*](https://arxiv.org/abs/2001.11243). arXiv: 2001.11243. **\*Equal contributions**.
+- Li Y.\*, **Shen Z.**\*, Shan Y. (2020). [*Fast Video Object Segmentation using the Global Context Module*](https://arxiv.org/abs/2001.11243). ECCV 2020. *\*Equal contributions*.
 
 - **Shen Z.**, Zhang M., Zhao H., Yi S., Li H. (2019). [*Efficient Attention: Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). arXiv:1812.01243.
-
-- Zhang M., Wu J., Jin D., **Shen Z.**, Bai X., Zhao H. (2019). *Context Voted Attention Network for Visual Relationship Detection*. In submission.
 
 # Skills
 
