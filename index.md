@@ -85,7 +85,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 - *Supervised by [Dr. Kwan-Yee Kenneth Wong](https://i.cs.hku.hk/~kykwong/), Associate Professor, [Computer Vision Group, The University of Hong Kong](http://www.visionlab.cs.hku.hk/).*
 - Designed *OceanText*, a novel character embedding algorithm for Chinese that extracts a semantic embedding from the image of a Chinese character with a convolutional neural network.
 - Developed a PyTorch embedding library. Reduced single-GPU training time from 82 days to 28.1 hours compared to existing open-source implementations.
-- Set a new state-of-the-art for word similarity estimation from character embeddings (15.6%→37.6 Spearman's ρ, [WordSim-297 Chinese](https://github.com/Leonard-Xu/CWE/blob/master/data/297.txt)).
+- Set a new state-of-the-art for word similarity estimation from character embeddings (15.6%→37.6%, Spearman's ρ, [WordSim-297 Chinese](https://github.com/Leonard-Xu/CWE/blob/master/data/297.txt)).
 
 **Diabetic Retinopathy Analysis**, Industry Research Experience
 
