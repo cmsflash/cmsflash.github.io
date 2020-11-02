@@ -77,7 +77,7 @@ _ Developed the first real-time video object segmenter that has state-of-the-art
 - *In collaboration with [Dr. Li Hongsheng](https://www.ee.cuhk.edu.hk/~hsli/), Assistant Professor, [Multimedia Laboratory, Chinese University of Hong Kong](http://mmlab.ie.cuhk.edu.hk/).*
 - Proposed efficient attention, which reduces the memory and computational complexities of the attention mechanism from quadratic to linear.
 - Demonstrated significant improvement in performance-cost trade-offs on a variety of tasks including object detection, instance segmentation, and stereo depth estimation.
-- Submitted a first-author [paper](#preprints) to WACV 2021.
+- To present a first-author [paper](#preprints) to WACV 2021.
 
 **Visual Embedding of Chinese**, Bachelor's Final-Year Project
 
@@ -106,11 +106,9 @@ _ Developed the first real-time video object segmenter that has state-of-the-art
 
 # Preprints
 
-- **Shen Z.**, I. Bello, R. Vemulapalli, Jia X., Chen C.-H. [*Global Self-Attention Networks for Image Recognition*](https://arxiv.org/abs/2010.03019). arXiv: 2010.03019.
-
+- **Shen Z.**, Zhang M., Zhao H., Yi S., Li H. (2021). [*Efficient Attention: Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). WACV 2021.
+- **Shen Z.**, I. Bello, R. Vemulapalli, Jia X., Chen C.-H. (2020). [*Global Self-Attention Networks for Image Recognition*](https://arxiv.org/abs/2010.03019). arXiv: 2010.03019.
 - Li Y.\*, **Shen Z.**\*, Shan Y. (2020). [*Fast Video Object Segmentation using the Global Context Module*](https://arxiv.org/abs/2001.11243). ECCV 2020. *\*Equal contributions*.
-
-- **Shen Z.**, Zhang M., Zhao H., Yi S., Li H. (2019). [*Efficient Attention: Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). arXiv:1812.01243.
 
 # Skills
 
