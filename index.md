@@ -104,7 +104,7 @@ _ Developed the first real-time video object segmenter that has state-of-the-art
 - *Owner and primary contributor.*
 - Developed the 2nd most popular PyTorch template on GitHub with 190+ stars and very high code quality.
 
-# Preprints
+# Publications and Preprints
 
 - **Shen Z.**, Zhang M., Zhao H., Yi S., Li H. (2021). [*Efficient Attention: Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). WACV 2021.
 - **Shen Z.**, I. Bello, R. Vemulapalli, Jia X., Chen C.-H. (2020). [*Global Self-Attention Networks for Image Recognition*](https://arxiv.org/abs/2010.03019). arXiv: 2010.03019.
