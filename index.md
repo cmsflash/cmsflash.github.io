@@ -67,7 +67,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 - Jul. 2019 - Sep. 2019.
 - *Supervised by [Dr. Shan Ying](https://scholar.google.com/citations?user=4oXBp9UAAAAJ), Director of Applied Research Center, Platform and Content Group, Tencent.*
 - Proposed the global context module, which effectively and efficiently propagates information through an arbitrarily long video with constant complexity w.r.t. video length and linear complexity w.r.t. resolution.
-_ Developed the first real-time video object segmenter that has state-of-the-art accuracy.
+- Developed the first real-time video object segmenter that has state-of-the-art accuracy.
 - Presented a first-author [paper](#preprints) at ECCV 2020.
 
 **Efficient Attention**, SenseTime
