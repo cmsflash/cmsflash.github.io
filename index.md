@@ -38,6 +38,13 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 - *Research Intern, Intelligent Perception and Services Team, Smart City Group*
 - Designed efficient attention that boosted the performance of object detectors in the company’s intelligence infrastructure supporting various teams. Details in [Research Experience](#research-experience).
 
+# Memberships
+
+- [Sigma Xi Full Member](https://www.sigmaxi.org/members/becoming-a-member)
+- [ACM Professional Member](https://www.acm.org/membership)
+- [IEEE Member](https://www.ieee.org/membership/index.html)
+- [IEEE Young Professional](https://yp.ieee.org/)
+
 # Awards
 
 - **Dean’s Honours List 2018-2019**, *Faculty of Engineering, The University of Hong Kong*
