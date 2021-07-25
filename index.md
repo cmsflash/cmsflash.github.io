@@ -24,6 +24,7 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 
 - Oct. 2019 - Present.
 - *AI Resident, Personal AI, Google AI*
+- Working on zero-shot detection using Transformers.
 - Working on foundations of fully-attentional visual modeling. Proposed *global self-attention networks*. Details in [Research Experience](#research-experience).
 
 **Tencent**, Shenzhen, Guangdong, China
