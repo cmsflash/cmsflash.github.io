@@ -118,6 +118,11 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 - **Shen Z.**, I. Bello, R. Vemulapalli, Jia X., Chen C.-H. (2020). [*Global Self-Attention Networks for Image Recognition*](https://arxiv.org/abs/2010.03019). arXiv: 2010.03019.
 - Li Y.\*, **Shen Z.**\*, Shan Y. (2020). [*Fast Video Object Segmentation using the Global Context Module*](https://arxiv.org/abs/2001.11243). ECCV 2020. *\*Equal contributions*.
 
+# Patents
+
+- **Shen Z.**, I. Bello, X. Jia, C.-H. Chen, R. Vemulapalli. (2020). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A2](https://patents.google.com/patent/WO2020257812A2/). Alexandria, VA, United States: United States Patent and Trademark Office.
+- **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2018). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926A](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN109635926A). Beijing, China: China National Intellectual Property Administration.
+
 # Skills
 
 - **Programming**: Python, C, C++, Java, Shell script, Markdown, LaTeX
