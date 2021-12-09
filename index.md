@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](https://research.google/). He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) and has formerly been Research Interns at [Tencent](https://www.tencent.com/en-us/) and [SenseTime](https://www.sensetime.com/en/). He currently focuses on the the attention mechanism, including fully-attentional visual modeling and the application of [efficient attention](ai/2019/12/02/efficient-attention.html) in various domains. He also has interests in large-scale visual pretraining and natural language processing.
+Shen Zhuoran (Zhuoran is the first name) holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) and has formerly been an AI Resident at [Google Research](https://research.google/) and Research Interns at [Tencent](https://www.tencent.com/en-us/) and [SenseTime](https://www.sensetime.com/en/). He currently focuses on the the attention mechanism, including fully-attentional visual modeling and the application of [efficient attention](ai/2019/12/02/efficient-attention.html) in various domains. He also has interests in large-scale visual pretraining.
 
 # Education
 
@@ -22,10 +22,11 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 
 **Google**, Seattle, WA, United States
 
-- Oct. 2019 - Present.
+- Oct. 2019 - Aug. 2021.
 - *AI Resident, Personal AI, Google AI*
-- Working on zero-shot detection using Transformers.
-- Working on foundations of fully-attentional visual modeling. Proposed *global self-attention networks*. Details in [Research Experience](#research-experience).
+- Worked on zero-shot detection and segmentation using Transformers. Designed a novel loss to combine strong and weak supervision signals for detection.
+- Worked on foundations of fully-attentional visual modeling. Proposed *global self-attention networks*. Details in [Research Experience](#research-experience).
+- Developed an on-device age detector using cross-domain knowledge distillation. Deployed the model to user devices to support privacy-preserving data filtering for a confidential project.
 
 **Tencent**, Shenzhen, Guangdong, China
 
@@ -120,8 +121,9 @@ Shen Zhuoran (Zhuoran is the first name) is an AI Resident at [Google Research](
 
 # Patents
 
-- **Shen Z.**, I. Bello, X. Jia, C.-H. Chen, R. Vemulapalli. (2020). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A2](https://patents.google.com/patent/WO2020257812A2/). Alexandria, VA, United States: United States Patent and Trademark Office.
-- **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2018). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926A](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN109635926A). Beijing, China: China National Intellectual Property Administration.
+- **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2018). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926B](http://epub.cnipa.gov.cn/patent/CN109635926B). Beijing, China: China National Intellectual Property Administration.
+- (Pending) **Shen Z.**, I. Bello, X. Jia, C.-H. Chen, R. Vemulapalli. (2020). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A2](https://patents.google.com/patent/WO2020257812A2/). Alexandria, VA, United States: United States Patent and Trademark Office.
+
 
 # Skills
 
