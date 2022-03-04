@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Shen Zhuoran (Zhuoran is the first name) holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) and has formerly been an AI Resident at [Google Research](https://research.google/) and Research Interns at [Tencent](https://www.tencent.com/en-us/) and [SenseTime](https://www.sensetime.com/en/). He currently focuses on the the attention mechanism, including fully-attentional visual modeling and the application of [efficient attention](ai/2019/12/02/efficient-attention.html) in various domains. He also has interests in large-scale visual pretraining.
+Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](https://pony.ai/). He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) and has formerly been an AI Resident at [Google Research](https://research.google/) and Research Interns at [Tencent](https://www.tencent.com/en-us/) and [SenseTime](https://www.sensetime.com/en/). His research currently focuses on autonomous driving prediction and the the attention mechanism.
 
 # Education
 
@@ -12,7 +12,7 @@ Shen Zhuoran (Zhuoran is the first name) holds a BEng in Computer Science from [
 - *Bachelor of Engineering* in *Computer Science*.
 - GPA: 3.85/4.30. Standing: 1/111.
 
-**University of California, Davis**, Davis, CA, Unites States
+**University of California, Davis**, Davis, CA, United States
 
 - Sep. 2017 - Dec. 2017.
 - *Bachelor's Reciprocity Student* in *Computer Science*.
@@ -20,15 +20,21 @@ Shen Zhuoran (Zhuoran is the first name) holds a BEng in Computer Science from [
 
 # Work Experience
 
-**Google**, Seattle, WA, United States
+**Pony.ai**, San Francisco Bay Area, United States
+
+- Nov. 2021 - Present.
+- *Software Engineer, Prediction Department*
+- Responsible for the development of the next-generation, end-to-end, general-purpose vehicle trajectory prediction model for autonomous driving.
+
+**Google**, Seattle, United States
 
 - Oct. 2019 - Aug. 2021.
-- *AI Resident, Personal AI, Google AI*
-- Worked on zero-shot detection and segmentation using Transformers. Designed a novel loss to combine strong and weak supervision signals for detection.
+- *AI Resident, Google Brain, Google Research*
 - Worked on foundations of fully-attentional visual modeling. Proposed *global self-attention networks*. Details in [Research Experience](#research-experience).
+- Worked on zero-shot detection and segmentation using Transformers. Designed a novel loss to combine strong and weak supervision signals for detection.
 - Developed an on-device age detector using cross-domain knowledge distillation. Deployed the model to user devices to support privacy-preserving data filtering for a confidential project.
 
-**Tencent**, Shenzhen, Guangdong, China
+**Tencent**, Shenzhen, China
 
 - Jul. 2019 - Sep. 2019.
 - *Research Intern, Applied Research Center, Platform and Content Group*
@@ -70,7 +76,7 @@ Shen Zhuoran (Zhuoran is the first name) holds a BEng in Computer Science from [
 - *Supervised by [Dr. Raviteja Vemulapalli](https://scholar.google.com/citations?user=0OFqm7YAAAAJ), Senior Research Scientist and [Dr. Jia Xuhui](https://scholar.google.com/citations?user=vO0VSSYAAAAJ), Senior Software Engineer, Google Research, Google.*
 - Proposed global self-attention networks (GSA-Nets), one of the first to use efficient attention mechanisms to fully replace convolution for computer vision applications.
 - Demonstrated superior trade-offs for accuracy vs. parameters, computation, and latency over CNNs.
-- Submitted a first-author [paper](#preprints) to ICLR 2021.
+- Shared a [preprint](#preprints) on arXiv.
 
 **Global Context Module**, Tencent
 - Jul. 2019 - Sep. 2019.
@@ -85,8 +91,8 @@ Shen Zhuoran (Zhuoran is the first name) holds a BEng in Computer Science from [
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Research Director, SenseTime.*
 - *In collaboration with [Dr. Li Hongsheng](https://www.ee.cuhk.edu.hk/~hsli/), Assistant Professor, [Multimedia Laboratory, Chinese University of Hong Kong](http://mmlab.ie.cuhk.edu.hk/).*
 - Proposed efficient attention, which reduces the memory and computational complexities of the attention mechanism from quadratic to linear.
-- Demonstrated significant improvement in performance-cost trade-offs on a variety of tasks including object detection, instance segmentation, and stereo depth estimation.
-- To present a first-author [paper](#preprints) to WACV 2021.
+- Demonstrated significant improvement in performance-cost trade-offs on a variety of tasks including object detection, instance segmentation, stereo depth estimation, and temporal action lcoalization.
+- Presented a first-author [paper](#preprints) at WACV 2021.
 
 **Visual Embedding of Chinese**, Bachelor's Final-Year Project
 
@@ -121,13 +127,11 @@ Shen Zhuoran (Zhuoran is the first name) holds a BEng in Computer Science from [
 
 # Patents
 
+- (Pending) **Shen Z.**, I. Bello, Jia X., Chen C.-H., R. Vemulapalli. (2020). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A2](https://patents.google.com/patent/WO2020257812A2/). Alexandria, VA, United States: United States Patent and Trademark Office.
 - **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2018). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926B](http://epub.cnipa.gov.cn/patent/CN109635926B). Beijing, China: China National Intellectual Property Administration.
-- (Pending) **Shen Z.**, I. Bello, X. Jia, C.-H. Chen, R. Vemulapalli. (2020). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A2](https://patents.google.com/patent/WO2020257812A2/). Alexandria, VA, United States: United States Patent and Trademark Office.
-
 
 # Skills
 
 - **Programming**: Python, C, C++, Java, Shell script, Markdown, LaTeX
-- **Machine Learning**: PyTorch, TensorFlow, Keras, Sonnet, Caffe, CUDA, NumPy, OpenCV
-- **Technologies**: Git, Vim, Slurm, Django, Jekyll, Piper, Blaze, Gin
+- **Technologies**: PyTorch, TensorFlow, Keras, NumPy, OpenCV, Git, Vim, Slurm, Django, Bazel
 - **Languages**: Mandarin Chinese (native), English (working proficiency, 116 in TOEFL)
