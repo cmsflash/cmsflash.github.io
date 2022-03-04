@@ -116,8 +116,20 @@ Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](htt
 [**BeautyNet**](https://github.com/cmsflash/beauty-net)
 
 - May 2018 - Oct. 2019.
-- *Owner and primary contributor.*
+- *Personal open-source project.*
 - Developed the 2nd most popular PyTorch template on GitHub with 190+ stars and very high code quality.
+
+[**The Walled Planet**](https://drive.google.com/open?id=0B1zPdLFs1CB7VXFuVFNyOF8wVmc)
+- Sep. 2016 - Nov. 2016.
+- *Course Project,* Virtual Worlds, Real Bodies, *The University of Hong Kong*
+- Built a maze runner game for virtual reality. Used Unity as the game engine and SketchUp for 3D modeling.
+- The game is set in a dystopian future where the entire globe become similar to the former Kowloon Walled City. The game aims to arouse players’ awareness about the quality of life in a modern metropolis.
+
+[Rush to 1202!](https://scratch.mit.edu/projects/99371474/)
+- Jan. 2016 - Mar. 2016.
+- *Course Project,* Introduction to Computer Science, *The University of Hong Kong*
+- Developed a Super Mario-like game. Used Scratch as the development platform.
+- The game sets on the day of the final exam of the very course, making it highly immersive for classmates. It features extremely counter-intuitive traps, making it very fun to play.
 
 # Publications and Preprints
 
@@ -130,8 +142,17 @@ Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](htt
 - (Pending) **Shen Z.**, I. Bello, Jia X., Chen C.-H., R. Vemulapalli. (2020). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A2](https://patents.google.com/patent/WO2020257812A2/). Alexandria, VA, United States: United States Patent and Trademark Office.
 - **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2018). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926B](http://epub.cnipa.gov.cn/patent/CN109635926B). Beijing, China: China National Intellectual Property Administration.
 
+# Personal Experience
+
+**Urumqi Middle School Student StarCraft II League (UM3SL)**
+- Jun. 2012 - Oct. 2012
+- *Organizer, commentator*
+- Organized an online e-Sport tournament for StarCraft II. Promoted the tournament on online forums. Set up broadcasting infrastructure on own3D.tv and ZhiboBox. Commentated and broadcasted the games.
+- 8 players from 6 schools joined. The tournament finished after a group stage and a top-four playoff.
+
 # Skills
 
 - **Programming**: Python, C, C++, Java, Shell script, Markdown, LaTeX
 - **Technologies**: PyTorch, TensorFlow, Keras, NumPy, OpenCV, Git, Vim, Slurm, Django, Bazel
+- **Hobbies**: e-sports, StarCraft II, Karaoke
 - **Languages**: Mandarin Chinese (native), English (working proficiency, 116 in TOEFL)
