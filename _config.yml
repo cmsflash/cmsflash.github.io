@@ -7,7 +7,10 @@ twitter_username: CMS_Flash
 github_username:  cmsflash
 
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
+google_analytics: G-6SRK9DNEMH
+
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
