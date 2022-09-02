@@ -161,6 +161,6 @@ Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](htt
 # Skills
 
 - **Programming**: Python, C++, Shell script, Markdown, LaTeX
-- **Technologies**: TensorFlow, Keras, PyTorch, NumPy, OpenCV, Git, Bazel, Vim, Django
+- **Technologies**: TensorFlow, Keras, PyTorch, NumPy, OpenCV, Horovod, Slurm, Git, Bazel, Django
 - **Hobbies**: e-sports, StarCraft II, Karaoke
 - **Languages**: Mandarin Chinese (native), English (working proficiency, 116 in TOEFL)
