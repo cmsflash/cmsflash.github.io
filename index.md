@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](https://pony.ai/). He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) and has formerly been an AI Resident at [Google Research](https://research.google/) and Research Interns at [Tencent](https://www.tencent.com/en-us/) and [SenseTime](https://www.sensetime.com/en/). His research currently focuses on autonomous driving prediction and the the attention mechanism.
+Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](https://pony.ai/). He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) and has formerly been an AI Resident at [Google Research](https://research.google/) and Research Interns at [Tencent](https://www.tencent.com/en-us/) and [SenseTime](https://www.sensetime.com/en/). His research currently focuses on autonomous driving prediction, the attention mechanism, and Transformers.
 
 # Education
 
@@ -24,14 +24,14 @@ Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](htt
 
 - Nov. 2021 - Present.
 - *Software Engineer, Prediction Department*
-- Responsible for the development of the next-generation, end-to-end, general-purpose vehicle trajectory prediction model for autonomous driving.
+- Responsible for the development of the next-generation, end-to-end, general-purpose trajectory prediction model for autonomous driving.
 
 **Google**, Seattle, United States
 
 - Oct. 2019 - Aug. 2021.
 - *AI Resident, Google Brain, Google Research*
 - Worked on foundations of fully-attentional visual modeling. Proposed *global self-attention networks*. Details in [Research Experience](#research-experience).
-- Worked on zero-shot detection and segmentation using Transformers. Designed a novel loss to combine strong and weak supervision signals for detection.
+- Worked on zero-shot detection using image-text pretrained Transformers. Collaboratively proposed *vision Transformer for open-world localization*. Details in [Research Experience](#research-experience).
 - Developed an on-device age detector using cross-domain knowledge distillation. Deployed the model to user devices to support privacy-preserving data filtering for a confidential project.
 
 **Tencent**, Shenzhen, China
@@ -44,7 +44,7 @@ Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](htt
 
 - Jun. 2017 - Jun. 2019.
 - *Research Intern, Intelligent Perception and Services Team, Smart City Group*
-- Designed efficient attention that boosted the performance of object detectors in the company’s intelligence infrastructure supporting various teams. Details in [Research Experience](#research-experience).
+- Proposed the *efficient attention* mechanism, a linear-complexity attention mechanism. Details in [Research Experience](#research-experience).
 
 # Memberships
 
@@ -71,19 +71,26 @@ Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](htt
 
 # Research Experience
 
+**Vision Transformer for Open-World Localization**, Google
+- Dec. 2020 - Aug. 2021.
+- *Supervised by [Dr. Mostafa Dehghani](https://mostafadehghani.com/), Senior Research Scientist, Google Brain, Google Research, Google.*
+- Worked on vision Transformer for open-world localization (OWL-ViT), a simple zero/few-shot detection framework that transfers from image-text pretraining.
+- Set a new state-of-the-art for one-shot detection by a wide margin.
+- To publish a [paper](#publications-and-preprint) at ECCV 2022.
+
 **Global Self-Attention Networks**, Google
 - Dec. 2019 - Oct. 2020.
-- *Supervised by [Dr. Raviteja Vemulapalli](https://scholar.google.com/citations?user=0OFqm7YAAAAJ), Senior Research Scientist and [Dr. Jia Xuhui](https://scholar.google.com/citations?user=vO0VSSYAAAAJ), Senior Software Engineer, Google Research, Google.*
+- *Supervised by [Dr. Raviteja Vemulapalli](http://ravitejav.weebly.com/), Senior Research Scientist and [Dr. Jia Xuhui](https://scholar.google.com/citations?user=vO0VSSYAAAAJ), Senior Software Engineer, Google Research, Google.*
 - Proposed global self-attention networks (GSA-Nets), one of the first to use efficient attention mechanisms to fully replace convolution for computer vision applications.
 - Demonstrated superior trade-offs for accuracy vs. parameters, computation, and latency over CNNs.
-- Shared a [preprint](#preprints) on arXiv.
+- Shared a [preprint](#publications-and-preprint) on arXiv.
 
 **Global Context Module**, Tencent
 - Jul. 2019 - Sep. 2019.
 - *Supervised by [Dr. Shan Ying](https://scholar.google.com/citations?user=4oXBp9UAAAAJ), Director of Applied Research Center, Platform and Content Group, Tencent.*
 - Proposed the global context module, which effectively and efficiently propagates information through an arbitrarily long video with constant complexity w.r.t. video length and linear complexity w.r.t. resolution.
 - Developed the first real-time video object segmenter that has state-of-the-art accuracy.
-- Presented a first-author [paper](#preprints) at ECCV 2020.
+- Presented a first-author [paper](#publications-and-preprint) at ECCV 2020.
 
 **Efficient Attention**, SenseTime
 
@@ -92,7 +99,7 @@ Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](htt
 - *In collaboration with [Dr. Li Hongsheng](https://www.ee.cuhk.edu.hk/~hsli/), Assistant Professor, [Multimedia Laboratory, Chinese University of Hong Kong](http://mmlab.ie.cuhk.edu.hk/).*
 - Proposed efficient attention, which reduces the memory and computational complexities of the attention mechanism from quadratic to linear.
 - Demonstrated significant improvement in performance-cost trade-offs on a variety of tasks including object detection, instance segmentation, stereo depth estimation, and temporal action lcoalization.
-- Presented a first-author [paper](#preprints) at WACV 2021.
+- Presented a first-author [paper](#publications-and-preprint) at WACV 2021.
 
 **Visual Embedding of Chinese**, Bachelor's Final-Year Project
 
@@ -131,16 +138,17 @@ Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](htt
 - Developed a Super Mario-like game. Used Scratch as the development platform.
 - The game sets on the day of the final exam of the very course, making it highly immersive for classmates. It features extremely counter-intuitive traps, making it very fun to play.
 
-# Publications and Preprints
+# Publications and Preprint
 
+- M. Minderer, A. Gritsenko, A. Stone, M. Neumann, D. Weissenborn, A. Dosovitskiy, A. Mahendran, A. Arnab, M. Dehghani, **Shen Z.**, X. Wang, X. Zhai, T. Kipf, N. Houlsby. (2022). [*Simple Open-Vocabulary Object Detection with Vision Transformers*](https://arxiv.org/abs/2205.06230). ECCV 2022.
 - **Shen Z.**, Zhang M., Zhao H., Yi S., Li H. (2021). [*Efficient Attention: Attention with Linear Complexities*](https://arxiv.org/abs/1812.01243). WACV 2021.
 - **Shen Z.**, I. Bello, R. Vemulapalli, Jia X., Chen C.-H. (2020). [*Global Self-Attention Networks for Image Recognition*](https://arxiv.org/abs/2010.03019). arXiv: 2010.03019.
 - Li Y.\*, **Shen Z.**\*, Shan Y. (2020). [*Fast Video Object Segmentation using the Global Context Module*](https://arxiv.org/abs/2001.11243). ECCV 2020. *\*Equal contributions*.
 
 # Patents
 
+- **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2021). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926B](http://epub.cnipa.gov.cn/patent/CN109635926B). Beijing, China: China National Intellectual Property Administration.
 - (Pending) **Shen Z.**, I. Bello, Jia X., Chen C.-H., R. Vemulapalli. (2020). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A2](https://patents.google.com/patent/WO2020257812A2/). Alexandria, VA, United States: United States Patent and Trademark Office.
-- **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2018). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926B](http://epub.cnipa.gov.cn/patent/CN109635926B). Beijing, China: China National Intellectual Property Administration.
 
 # Personal Experience
 
@@ -152,7 +160,7 @@ Shen Zhuoran (Zhuoran is the first name) is a Software Engineer at [Pony.ai](htt
 
 # Skills
 
-- **Programming**: Python, C, C++, Java, Shell script, Markdown, LaTeX
-- **Technologies**: PyTorch, TensorFlow, Keras, NumPy, OpenCV, Git, Vim, Slurm, Django, Bazel
+- **Programming**: Python, C++, Shell script, Markdown, LaTeX
+- **Technologies**: TensorFlow, Keras, PyTorch, NumPy, OpenCV, Git, Bazel, Vim, Django
 - **Hobbies**: e-sports, StarCraft II, Karaoke
 - **Languages**: Mandarin Chinese (native), English (working proficiency, 116 in TOEFL)
