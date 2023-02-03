@@ -153,8 +153,9 @@ Shen Zhuoran (Zhuoran is the first name) is a Senior Machine Learning Engineer a
 
 # Patents
 
-- **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2021). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926B](http://epub.cnipa.gov.cn/patent/CN109635926B). Beijing, China: China National Intellectual Property Administration.
-- (Pending) **Shen Z.**, I. Bello, Jia X., Chen C.-H., R. Vemulapalli. (2020). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A2](https://patents.google.com/patent/WO2020257812A2/). Alexandria, VA, United States: United States Patent and Trademark Office.
+- **Shen Z.**, Wu Y. (2022). *Processing Method for Vehicle Driving Data, Relevant Devices, Computer Equipment, and Storage Media*. CN Patent [CN115465290A](https://patents.google.com/patent/CN115465290A/). Beijing, China: China National Intellectual Property Administration.
+- **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2021). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926B](https://patents.google.com/patent/CN109635926B/). Beijing, China: China National Intellectual Property Administration.
+- (Pending) **Shen Z.**, I. Bello, Jia X., Chen C.-H., R. Vemulapalli. (2021). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A3](https://patents.google.com/patent/WO2020257812A3/). Alexandria, VA, United States: United States Patent and Trademark Office.
 
 # Personal Experience
 
