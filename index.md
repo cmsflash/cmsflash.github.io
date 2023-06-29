@@ -2,7 +2,11 @@
 layout: page
 ---
 
-Shen Zhuoran (Zhuoran is the first name) is a Senior Machine Learning Engineer at [Cruise](https://getcruise.com/) working on LLM and data-driven machine learning transition of the planning system. He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) and has formerly been a Software Engineer at [Pony.ai](https://pony.ai/), an AI Resident at [Google Research](https://research.google/) and Research Interns at [Tencent](https://www.tencent.com/en-us/) and [SenseTime](https://www.sensetime.com/en/). His research currently focuses on autonomous driving prediction and planning, the attention mechanism, Transformers, and large models.
+Shen Zhuoran (Zhuoran is the first name) is a Senior Machine Learning Engineer at [Cruise](https://getcruise.com/) working on large language model (LLM) application to self-driving and data-driven machine learning transition of the planning system.
+
+He has been focusing on the non-local attention mechanism and Transformers for computer vision since 2018, arguably being one of the first batch of scholars investigating this topic. Over his tenure at [SenseTime](https://www.sensetime.com/en/), [Tencent](https://www.tencent.com/en-us/), and [Google AI Residency](https://research.google/), he proposed various efficient formulations of attention and Transformer and gained experience building towards a visual foundation model. His papers on efficient attention have accumulated more than 300 citations and direct follow-up works in multiple fields, especially medical imaging. Later at [Pony.ai](https://pony.ai/), he lead the development of the first version of Pony's end-to-end deep learning prediction system.
+
+He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) with First-Class Honours and the top-1 GPA in class.
 
 # Education
 
