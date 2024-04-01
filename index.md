@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Shen Zhuoran (Zhuoran is the first name) is a Research Scientist at Stealth Startup in Palo Alto, CA, working on coding large language models (coding LLMs) to push on the frontier of artificial intelligence (AI) reasoning and general intelligence.
+Shen Zhuoran (Zhuoran is the first name) is a Research Scientist at a Stealth Startup in Palo Alto, CA, working on coding large language models (coding LLMs) to push on the frontier of artificial intelligence (AI) reasoning and general intelligence.
 
 He has been focusing on the non-local attention mechanism and Transformers for computer vision since 2018, arguably being one of the first batch of scholars investigating this topic. Over his tenure at [SenseTime](https://www.sensetime.com/en/), [Tencent](https://www.tencent.com/en-us/), and [Google AI Residency](https://research.google/), he worked on various novel efficient formulations of attention and Transformer and building a visual foundation model. His papers on efficient attention have accumulated more than 700 citations and direct follow-up works in multiple fields, especially medical imaging and remote sensing. After Google, he spent two years in self-driving, lead the end-to-end deep learning transition for [Pony.ai](https://pony.ai/)'s motion prediction system, and worked on establishing data-driven continuous learning for behavior planning models at [Cruise](https://www.getcruise.com/).
 
