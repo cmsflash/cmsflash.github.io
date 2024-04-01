@@ -2,9 +2,9 @@
 layout: page
 ---
 
-Shen Zhuoran (Zhuoran is the first name) is a Senior Machine Learning Engineer at [Cruise](https://getcruise.com/) working on large language model (LLM) application to self-driving and data-driven machine learning transition of the planning system.
+Shen Zhuoran (Zhuoran is the first name) is a Research Scientist at Stealth Startup in Palo Alto, CA, working on coding large language models (coding LLMs) to push on the frontier of artificial intelligence (AI) reasoning and general intelligence.
 
-He has been focusing on the non-local attention mechanism and Transformers for computer vision since 2018, arguably being one of the first batch of scholars investigating this topic. Over his tenure at [SenseTime](https://www.sensetime.com/en/), [Tencent](https://www.tencent.com/en-us/), and [Google AI Residency](https://research.google/), he proposed various efficient formulations of attention and Transformer and gained experience building towards a visual foundation model. His papers on efficient attention have accumulated more than 300 citations and direct follow-up works in multiple fields, especially medical imaging. Later at [Pony.ai](https://pony.ai/), he lead the development of the first version of Pony's end-to-end deep learning prediction system.
+He has been focusing on the non-local attention mechanism and Transformers for computer vision since 2018, arguably being one of the first batch of scholars investigating this topic. Over his tenure at [SenseTime](https://www.sensetime.com/en/), [Tencent](https://www.tencent.com/en-us/), and [Google AI Residency](https://research.google/), he worked on various novel efficient formulations of attention and Transformer and building a visual foundation model. His papers on efficient attention have accumulated more than 700 citations and direct follow-up works in multiple fields, especially medical imaging and remote sensing. After Google, he spent two years in self-driving, lead the end-to-end deep learning transition for [Pony.ai](https://pony.ai/)'s motion prediction system, and worked on establishing data-driven continuous learning for behavior planning models at [Cruise](https://www.getcruise.com/).
 
 He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) with First-Class Honours and the top-1 GPA in class.
 
@@ -24,16 +24,22 @@ He holds a BEng in Computer Science from [The University of Hong Kong](https://w
 
 # Work Experience
 
+**Stealth Starup**, San Francisco Bay Area, United States
+
+- Apr. 2024 – Present.
+- *Research Scientist*
+- Working on pre-training and mid-training of large code models (code LLMs).
+
 **Cruise**, San Francisco Bay Area, United States
 
-- Jan. 2023 – Present
+- Jan. 2023 – Mar. 2024.
 - *Senior Machine Learning Engineer, Behaviors Data, AI*
 - Deploying the first large language model (LLM) on premise for data-driven enhancement of onboard models.
 - Working on data-driven machine learning transition of the planning stack.
 
 **Pony.ai**, San Francisco Bay Area, United States
 
-- Nov. 2021 - Present.
+- Nov. 2021 - Oct. 2023.
 - *Software Engineer, Prediction Department*
 - Developed the next-generation, end-to-end, general-purpose trajectory prediction model for self-driving.
 
@@ -162,7 +168,7 @@ He holds a BEng in Computer Science from [The University of Hong Kong](https://w
 - **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2021). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926B](https://patents.google.com/patent/CN109635926B/). Beijing, China: China National Intellectual Property Administration.
 - (Pending) **Shen Z.**, I. Bello, Jia X., Chen C.-H., R. Vemulapalli. (2021). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A3](https://patents.google.com/patent/WO2020257812A3/). Alexandria, VA, United States: United States Patent and Trademark Office.
 
-# Personal Experience
+# Non-Professional Experience
 
 **Urumqi Middle School Student StarCraft II League (UM3SL)**
 - Jun. 2012 - Oct. 2012
