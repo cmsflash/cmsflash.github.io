@@ -26,42 +26,42 @@ He holds a BEng in Computer Science from [The University of Hong Kong](https://w
 
 **Stealth Starup**, San Francisco Bay Area, United States
 
-- Apr. 2024 – Present.
-- *Research Scientist*
-- Working on pre-training and mid-training of large code models (code LLMs).
+- Present.
+- *Research Scientist, Research*
+- Working on pre-/mid-training of large code models (code LLMs), including scaling law estimation and mixture-of-experts (MoE) support.
 
 **Cruise**, San Francisco Bay Area, United States
 
 - Jan. 2023 – Mar. 2024.
-- *Senior Machine Learning Engineer, Behaviors Data, AI*
-- Deploying the first large language model (LLM) on premise for data-driven enhancement of onboard models.
-- Working on data-driven machine learning transition of the planning stack.
+- *Senior ML/Robotics Engineer, Behaviors Data, AI*
+- Worked on data-driven machine learning transition of the planning stack.
+- Established the continuous training mechanism for Cruise's planning models.
+- Addressed the planning models' several behavioral issues around emergency vehicles (EMVs, e.g. police ve-hicle, ambulances, and fire trucks).
 
 **Pony.ai**, San Francisco Bay Area, United States
 
 - Nov. 2021 - Oct. 2023.
 - *Software Engineer, Prediction Department*
-- Developed the next-generation, end-to-end, general-purpose trajectory prediction model for self-driving.
+- Lead the development of the next-generation, end-to-end, general-purpose trajectory prediction model for self-driving.
 
 **Google**, Seattle, United States
 
 - Oct. 2019 - Aug. 2021.
 - *AI Resident, Google Brain, Google Research*
-- Worked on foundations of fully-attentional visual modeling. Proposed *global self-attention networks*. Details in [Research Experience](#research-experience).
-- Worked on zero-shot detection using image-text pretrained Transformers. Collaboratively proposed *vision Transformer for open-world localization*. Details in [Research Experience](#research-experience).
-- Developed an on-device age detector using cross-domain knowledge distillation. Deployed the model to user devices to support privacy-preserving data filtering for a confidential project.
+- Proposed an early Transformer arhictecture for computer vision before vision Transformer (ViT), the *global self-attention networks (GSA-Nets)*. Details in [Research Experience](#research-experience).
+- Worked on zero-shot detection using image-text pretrained Transformers. Collaboratively proposed *vision Transformer for open-world localization (OWL-ViT)*. Details in [Research Experience](#research-experience).
 
 **Tencent**, Shenzhen, China
 
 - Jul. 2019 - Sep. 2019.
 - *Research Intern, Applied Research Center, Platform and Content Group*
-- Proposed the *global context* module for video object segmentation. Details in [Research Experience](#research-experience).
+- Proposed a linear attentive memory mechanism for video understanding, the *global context* module. Details in [Research Experience](#research-experience).
 
 **SenseTime**, Hong Kong
 
 - Jun. 2017 - Jun. 2019.
 - *Research Intern, Intelligent Perception and Services Team, Smart City Group*
-- Proposed the *efficient attention* mechanism, a linear-complexity attention mechanism. Details in [Research Experience](#research-experience).
+- Proposed one of the first linear-complexity attention mechanisms, *efficient attention*. Details in [Research Experience](#research-experience).
 
 # Memberships
 
