@@ -24,15 +24,17 @@ He holds a BEng in Computer Science from [The University of Hong Kong](https://w
 
 # Work Experience
 
-**Augment**, San Francisco Bay Area, United States
+**Augment Code**, San Francisco Bay Area, United States
 
-- Present.
+- Dec. 2023 - Present.
 - *Research Scientist, Research*
-- Working on large code model (code LLM) training.
+- Pre-trained a small-scale code model (1B parameters/1T tokens).
+- Implemented mixture-of-expert support and context window extension.
+- Working on agent scaffold design and training auxiliary models for the scaffold.
 
 **Cruise**, San Francisco Bay Area, United States
 
-- Jan. 2023 – Mar. 2024.
+- Jan. 2023 – Dec. 2023.
 - *Senior ML/Robotics Engineer, Behaviors Data, AI*
 - Worked on data-driven machine learning transition of the planning stack.
 - Established the continuous training mechanism for Cruise's planning models.
