@@ -2,9 +2,9 @@
 layout: page
 ---
 
-Shen Zhuoran (Zhuoran is the first name) is a Research Scientist at [Augment](https://www.augmentcode.com/), working on coding large language models (coding LLMs) to push on the frontier of artificial intelligence (AI) reasoning and general intelligence.
+Shen Zhuoran (Zhuoran is the first name) is a Member of Technical Staff at [xAI](https://www.x.ai/), working on reasoning and coding.
 
-He has been focusing on the non-local attention mechanism and Transformers for computer vision since 2018, being one of the first batch of scholars investigating this topic. Over his tenure at [SenseTime](https://www.sensetime.com/en/), [Tencent](https://www.tencent.com/en-us/), and [Google AI Residency](https://research.google/), he worked on various novel efficient formulations of attention and Transformer and building a visual foundation model. His papers on efficient attention have accumulated more than 700 citations and direct follow-up works in multiple fields, especially medical imaging and remote sensing. After Google, he spent two years in self-driving, lead the end-to-end deep learning transition for [Pony.ai](https://pony.ai/)'s motion prediction system, and worked on establishing data-driven continuous learning for behavior planning models at [Cruise](https://www.getcruise.com/).
+He has been focusing on the non-local attention mechanism and Transformers for computer vision since 2018, as one of the first batch of scholars investigating this topic. Over his tenure at [SenseTime](https://www.sensetime.com/en/), [Tencent](https://www.tencent.com/en-us/), and [Google AI Residency](https://research.google/), he worked on various novel efficient formulations of attention and the Transformer and built a visual foundation model. His papers on efficient attention have accumulated more than 800 citations and direct follow-up works in multiple fields, especially medical imaging and remote sensing. After Google, he spent two years in self-driving, lead the end-to-end deep learning transition for various motion prediction and trajectory planning modules at [Pony.ai](https://pony.ai/) and [Cruise](https://www.getcruise.com/). He then pivoted to the pre-training and post-trainig of code LLMs and coding agents at [Augment](https://www.augmentcode.com/).
 
 He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) with First-Class Honours and the top-1 GPA in class.
 
@@ -24,13 +24,18 @@ He holds a BEng in Computer Science from [The University of Hong Kong](https://w
 
 # Work Experience
 
+**xAI**, San Francisco Bay Area, United States
+
+- Sep. 2025 - Present.
+- *Member of Technical Staff*
+- Working on Grok and Grok Code post-training for reasoning and coding.
+
 **Augment Code**, San Francisco Bay Area, United States
 
-- Dec. 2023 - Present.
+- Dec. 2023 - Sep. 2025.
 - *Research Scientist*
 - Lead Augment’s code LLM pre-training, matched state-of-the-art performance (DeepSeek-Coder).
 - Post-trained several component models of Augment’s state-of-the-art enterprise coding agent. An open-source version reached no. 1 on SWE-bench Verified.
-
 
 **Cruise**, San Francisco Bay Area, United States
 
@@ -38,7 +43,6 @@ He holds a BEng in Computer Science from [The University of Hong Kong](https://w
 - *Senior ML/Robotics Engineer, Behaviors Data, AI*
 •	Established a continuous training mechanism for Cruise's planning models.
 •	Lead an ML-based solution for misbehaviors around emergency vehicles.
-
 
 **Pony.ai**, San Francisco Bay Area, United States
 
