@@ -2,11 +2,11 @@
 layout: page
 ---
 
-Shen Zhuoran (Zhuoran is the first name) is a Member of Technical Staff at [xAI](https://www.x.ai/), working on reasoning and coding.
+Shen Zhuoran (Zhuoran is the first name) is a Founding Scientist at a stealth startup on RSI and AI Scientists. He believes rollout efficiency for RL is a bottleneck challenge for RSI and other long-horizon, high-cost/high-complexity tasks and works on innovative RL recipes to address this issue.
 
-He has been focusing on the non-local attention mechanism and Transformers for computer vision since 2018, as one of the first batch of scholars investigating this topic. Over his tenure at [SenseTime](https://www.sensetime.com/en/), [Tencent](https://www.tencent.com/en-us/), and [Google AI Residency](https://research.google/), he worked on various novel efficient formulations of attention and the Transformer and built a visual foundation model. His papers on efficient attention have accumulated more than 800 citations and direct follow-up works in multiple fields, especially medical imaging and remote sensing. After Google, he spent two years in self-driving, lead the end-to-end deep learning transition for various motion prediction and trajectory planning modules at [Pony.ai](https://pony.ai/) and [Cruise](https://www.getcruise.com/). He then pivoted to the pre-training and post-trainig of code LLMs and coding agents at [Augment](https://www.augmentcode.com/).
+He was most recently at [xAI](https://x.ai/), working on agentic grading, self-play, and large-scale coding RL, including leading the potentially largest-scale agentic grading RL run at the time. Previously, he worked at [Augment Code](https://www.augmentcode.com/) on coding model pre-training, post-training, and harness engineering, which reached state-of-the-art performance on coding pre-training benchmarks and [SWE-bench Verified](https://www.augmentcode.com/blog/1-open-source-agent-on-swe-bench-verified-by-combining-claude-3-7-and-o1). Early in his career, he worked on [early linear attention mechanisms](https://arxiv.org/abs/1812.01243) and Transformer-based vision foundation models during his [Google AI Residency](https://research.google/).
 
-He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) with First-Class Honours and the top-1 GPA in class.
+He holds a BEng in Computer Science from [The University of Hong Kong](https://www.hku.hk/) with First-Class Honours and the top-1 GPA in the Class of 2019.
 
 # Education
 
@@ -99,7 +99,7 @@ He holds a BEng in Computer Science from [The University of Hong Kong](https://w
 - *Supervised by [Dr. Mostafa Dehghani](https://mostafadehghani.com/), Senior Research Scientist, Google Brain, Google Research, Google.*
 - Worked on vision Transformer for open-world localization (OWL-ViT), a simple zero/few-shot detection framework that transfers from image-text pretraining.
 - Set a new state-of-the-art for one-shot detection by a wide margin.
-- To publish a [paper](#publications-and-preprint) at ECCV 2022.
+- Published a [paper](#publications-and-preprint) at ECCV 2022.
 
 **Global Self-Attention Networks**, Google
 - Dec. 2019 - Oct. 2020.
@@ -121,7 +121,7 @@ He holds a BEng in Computer Science from [The University of Hong Kong](https://w
 - *Supervised by [Dr. Yi Shuai](https://scholar.google.com.hk/citations?user=afbbNmwAAAAJ), Research Director, SenseTime.*
 - *In collaboration with [Dr. Li Hongsheng](https://www.ee.cuhk.edu.hk/~hsli/), Assistant Professor, [Multimedia Laboratory, Chinese University of Hong Kong](http://mmlab.ie.cuhk.edu.hk/).*
 - Proposed efficient attention, which reduces the memory and computational complexities of the attention mechanism from quadratic to linear.
-- Demonstrated significant improvement in performance-cost trade-offs on a variety of tasks including object detection, instance segmentation, stereo depth estimation, and temporal action lcoalization.
+- Demonstrated significant improvement in performance-cost trade-offs on a variety of tasks including object detection, instance segmentation, stereo depth estimation, and temporal action localization.
 - Presented a first-author [paper](#publications-and-preprint) at WACV 2021.
 
 **Visual Embedding of Chinese**, Bachelor's Final-Year Project
@@ -170,9 +170,12 @@ He holds a BEng in Computer Science from [The University of Hong Kong](https://w
 
 # Patents
 
-- **Shen Z.**, Wu Y. (2022). *Processing Method for Vehicle Driving Data, Relevant Devices, Computer Equipment, and Storage Media*. CN Patent [CN115465290A](https://patents.google.com/patent/CN115465290A/). Beijing, China: China National Intellectual Property Administration.
+- **Shen Z.**, Wu Y. (2026). *Processing Method for Vehicle Driving Data, Relevant Devices, Computer Equipment, and Storage Media*. CN Patent [CN115465290B](https://globaldossier.uspto.gov/result/application/CN/202211027312/1). Beijing, China: China National Intellectual Property Administration.
 - **Shen Z.**, Zhang M., Zhao H., Yi S., Yan J. (2021). *Method for Obtaining Attention Features for Neural Networks, Relevant Devices, and Storage Media*. CN Patent [CN109635926B](https://patents.google.com/patent/CN109635926B/). Beijing, China: China National Intellectual Property Administration.
-- (Pending) **Shen Z.**, I. Bello, Jia X., Chen C.-H., R. Vemulapalli. (2021). *Modeling Dependencies with Global Self-Attention Neural Networks*. US Patent [WO2020257812A3](https://patents.google.com/patent/WO2020257812A3/). Alexandria, VA, United States: United States Patent and Trademark Office.
+- **Shen Z.**, I. Bello, Jia X., Chen C.-H., R. Vemulapalli.
+  - (2025). *Computing System, Method and Medium for Modeling Dependencies*. CN Patent [CN115885289B](https://patents.google.com/patent/CN115885289B/). Beijing, China: China National Intellectual Property Administration.
+  - (2023). *Modeling Dependencies with Global Self-Attention Neural Networks*. European Patent Application [EP4154185A2](https://register.epo.org/application?number=EP20781680). Munich, Germany: European Patent Office.
+  - (2021). *Modeling Dependencies with Global Self-Attention Neural Networks*. Int’l Patent Application (PCT) [WO2020257812A3](https://patents.google.com/patent/WO2020257812A3/). Geneva, Switzerland: World Intellectual Property Organization.
 
 # Non-Professional Experience
 
@@ -187,4 +190,4 @@ He holds a BEng in Computer Science from [The University of Hong Kong](https://w
 - **Programming**: Python, C++, Shell script, Markdown, LaTeX
 - **Technologies**: TensorFlow, Keras, PyTorch, NumPy, OpenCV, Horovod, Slurm, Git, Bazel, Django
 - **Hobbies**: e-sports, StarCraft II, Karaoke
-- **Languages**: Mandarin Chinese (native), English (working proficiency, 116 in TOEFL)
+- **Languages**: Mandarin Chinese (native), English (working proficiency, TOEFL 116)
